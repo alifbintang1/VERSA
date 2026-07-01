@@ -1,0 +1,376 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "KETENTUAN UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "I.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pesatnya perkembangan Teknologi Informasi yang selanjutnya\ndisingkat TI telah memengaruhi cara kerja berbagai industri jasa\nkeuangan, khususnya\nindustri perbankan. Bank dapat\nmemanfaatkan TI untuk mendukung kegiatan operasional Bank\nserta meningkatkan pelayanan kepada nasabah. Dengan\nmenggunakan TI, Bank dapat memperoleh manfaat, antara lain\npeningkatan efisiensi dan efektivitas operasional Bank, peningkatan\nlayanan melalui kerja sama dengan pihak ketiga secara mudah,\nserta penyediaan layanan yang cepat dan optimal bagi nasabah.\nNamun demikian, peningkatan pemanfaatan TI juga berpotensi\nmeningkatkan risiko operasional bagi industri perbankan.\nSalah satu risiko yang berpotensi meningkat seiring dengan\npemanfaatan TI pada skala yang lebih besar yaitu risiko yang\nditimbulkan oleh ancaman dan insiden siber. Bank tidak hanya\ndituntut untuk dapat menjaga keamanan Sistem Elektronik yang\ndimiliki dari serangan siber, namun juga perlu untuk memiliki\nkemampuan dalam mendeteksi dan memulihkan keadaan pasca\nterjadinya insiden siber.\nBank menerapkan tata kelola serta manajemen risiko yang baik\nuntuk\ntetap dapat beroperasi dengan memanfaatkan TI\nsebagaimana mestinya dengan menjaga ketahanan dan keamanan\nsiber. Selanjutnya, Bank juga perlu menetapkan strategi dan\nlangkah yang tepat sasaran serta berkelanjutan dalam mengatasi\npermasalahan yang diakibatkan oleh ancaman dan insiden siber.\nHal tersebut harus dilakukan mengingat bisnis perbankan\nmerupakan bisnis yang utamanya berkaitan dengan dana\nmasyarakat sehingga memerlukan operasional yang matang dan\naman."
+        },
+        {
+          "article_number": "I.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketahanan siber merupakan kemampuan Bank untuk tetap\nmenjaga kelangsungan bisnisnya dengan melakukan tindakan\nantisipatif, adaptif, dan proaktif terhadap ancaman siber."
+        },
+        {
+          "article_number": "I.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Keamanan siber merupakan kondisi terjaganya kerahasiaan,\nkeutuhan, serta ketersediaan informasi dan/atau sistem informasi\nyang saling terkoneksi satu sama lain melalui media siber, dari\nserangan siber. Keamanan siber dapat juga mencakup aspek lain,\nseperti keaslian, akuntabilitas, nirsangkal, dan keandalan."
+        },
+        {
+          "article_number": "I.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Laporan insiden TI berupa insiden siber yang selanjutnya disebut\nlaporan\ninsiden siber merupakan\nlaporan kejadian kritis,\npenyalahgunaan, dan/atau kejahatan dalam penyelenggaraan TI,\nyang terkait dengan keamanan siber."
+        },
+        {
+          "article_number": "I.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Notifikasi awal insiden TI berupa insiden siber yang selanjutnya\ndisebut notifikasi awal insiden siber merupakan pemberitahuan\nsegera atas kejadian kritis, penyalahgunaan, dan/atau kejahatan\ndalam penyelenggaraan TI, yang terkait dengan keamanan siber."
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "title": "PENILAIAN RISIKO INHEREN TERKAIT KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "II.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank melakukan penilaian risiko inheren terkait keamanan siber.\nPenilaian tersebut dilakukan secara tahunan untuk posisi akhir\nbulan Desember. Bank dapat melakukan penginian penilaian\ntersebut sewaktu-waktu apabila diperlukan."
+        },
+        {
+          "article_number": "II.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penilaian risiko inheren terkait keamanan siber dilakukan dengan\nmemperhatikan paling sedikit 4 (empat) faktor penilaian yaitu\nteknologi, produk bank, karakteristik organisasi, dan rekam jejak\ninsiden siber. Penilaian risiko inheren diawali dari penilaian\nterhadap parameter risiko pada setiap faktor penilaian terkait\nkeamanan siber. Terdapat beberapa parameter atau indikator\nminimum yang dapat dijadikan acuan oleh Bank dalam menilai\nrisiko inheren terkait keamanan siber sebagaimana tercantum\ndalam Lampiran I.a yang merupakan bagian tidak terpisahkan dari\nSurat Edaran Otoritas Jasa Keuangan ini. Bank dapat menambah\nparameter atau indikator lain yang relevan dengan karakteristik dan\nkompleksitas usaha Bank dengan memperhatikan prinsip\nproporsionalitas."
+        },
+        {
+          "article_number": "II.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam melakukan penilaian risiko inheren terkait keamanan siber,\nBank menggunakan\nformat sebagaimana\ntercantum dalam\nLampiran II.a yang merupakan bagian tidak terpisahkan dari Surat\nEdaran Otoritas Jasa Keuangan ini."
+        },
+        {
+          "article_number": "II.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penetapan\ntingkat risiko\ninheren\nterkait keamanan siber\ndikategorikan ke dalam Peringkat 1 (low), Peringkat 2 (low to\nmoderate), Peringkat 3 (moderate), Peringkat 4 (moderate to high),\ndan Peringkat 5\n(high),\nsebagaimana\ntercantum dalam\nLampiran III.a yang merupakan bagian tidak terpisahkan dari Surat\nEdaran Otoritas Jasa Keuangan ini."
+        },
+        {
+          "article_number": "II.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Hasil penilaian risiko inheren terkait keamanan siber sebagaimana\ndimaksud pada angka 3 dan tingkat risiko inheren terkait\nkeamanan siber sebagaimana dimaksud pada angka 4 disampaikan\nkepada Otoritas Jasa Keuangan sebagai bagian dari laporan kondisi\nterkini penyelenggaraan TI Bank, yaitu paling lama 15 (lima belas)\nhari kerja setelah akhir tahun pelaporan dengan menggunakan\nformat sebagaimana tercantum dalam Lampiran V yang merupakan\nbagian tidak terpisahkan dari Surat Edaran Otoritas Jasa Keuangan\nini."
+        },
+        {
+          "article_number": "II.6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penilaian risiko inheren terkait keamanan siber pertama kali\ndilakukan oleh Bank untuk posisi akhir bulan Desember 2022 dan\nhasil penilaian dimaksud disampaikan kepada Otoritas Jasa\nKeuangan paling lambat pada akhir bulan Juni 2023. Untuk\npenilaian tahun berikutnya disampaikan sesuai dengan tenggat\nwaktu sebagaimana dimaksud pada angka 5."
+        },
+        {
+          "article_number": "II.7",
+          "section_number": null,
+          "section_title": null,
+          "content": "Otoritas Jasa Keuangan melakukan penelaahan atas hasil penilaian\nrisiko inheren terkait keamanan siber sebagaimana dimaksud pada\nangka 5. Dalam hal berdasarkan penelaahan Otoritas Jasa\nKeuangan menunjukkan bahwa hasil penilaian risiko inheren\nterkait keamanan siber tidak mencerminkan kondisi Bank yang\nsebenarnya, Otoritas Jasa Keuangan dapat menyesuaikan hasil\npenilaian risiko inheren terkait keamanan siber."
+        },
+        {
+          "article_number": "II.8",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tingkat risiko inheren terkait keamanan siber dipertimbangkan\nsebagai parameter atau indikator tambahan dari tingkat risiko\ninheren untuk aspek TI pada risiko operasional dalam penilaian\ntingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "title": "PENERAPAN MANAJEMEN RISIKO TERKAIT KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "III.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Untuk melaksanakan Pasal 15 POJK PTI, Bank menerapkan\nmanajemen risiko secara efektif dalam penyelenggaraan TI,\ntermasuk terkait keamanan siber."
+        },
+        {
+          "article_number": "III.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penerapan manajemen risiko terkait keamanan siber mencakup\n4 (empat) aspek, yaitu:\na.\ntata kelola risiko terkait keamanan siber, yang meliputi\nkecukupan pengawasan aktif oleh Direksi dan Dewan\nKomisaris, perumusan tingkat risiko terkait keamanan siber\nyang akan diambil (risk appetite) dan toleransi risiko terkait\nkeamanan siber (risk tolerance), serta budaya dan kesadaran\nrisiko terkait keamanan siber;\nb. kerangka manajemen risiko terkait keamanan siber, yang\nmeliputi strategi manajemen risiko, kecukupan perangkat\norganisasi, serta kecukupan kebijakan, prosedur, dan\npenetapan limit risiko, terkait keamanan siber;\nc.\nproses manajemen risiko, kecukupan sumber daya manusia\n(SDM), serta kecukupan sistem informasi manajemen risiko,\nterkait keamanan siber; dan\nd.\nsistem pengendalian risiko terkait keamanan siber, yang\nmeliputi kecukupan sistem pengendalian\nintern dan\nkecukupan kaji ulang."
+        },
+        {
+          "article_number": "III.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penerapan manajemen risiko terkait keamanan siber disesuaikan\ndengan karakteristik dan kompleksitas bisnis Bank serta\npenyelenggaraan TI secara menyeluruh oleh Bank."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "title": "PENERAPAN PROSES KETAHANAN SIBER BAGI BANK UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "IV.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Untuk melaksanakan Pasal 21 POJK PTI, Bank menjaga ketahanan\nsiber dengan melakukan proses:\na.\nidentifikasi aset, ancaman, dan kerentanan;\nb. pelindungan aset;\nc.\ndeteksi insiden siber; dan\nd. penanggulangan dan pemulihan insiden siber."
+        },
+        {
+          "article_number": "IV.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Proses Identifikasi Aset, Ancaman, dan Kerentanan\nPada proses identifikasi aset, ancaman, dan kerentanan, Bank\npaling sedikit:\na. menerapkan manajemen aset melalui\ninventarisasi dan\npenilaian aset TI (antara lain perangkat keras, perangkat\nlunak,\njaringan, dan\ninfrastruktur) serta pencatatan\nkonfigurasi secara efektif;\nb. melakukan identifikasi kerentanan dan pemantauan terhadap\nperkembangan siber terkini untuk mengidentifikasi ancaman\nsiber; dan\nc. melakukan pengujian keamanan siber secara berkala."
+        },
+        {
+          "article_number": "IV.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Proses Pelindungan Aset\nPada proses pelindungan aset, Bank paling sedikit:\na. menerapkan pengendalian keamanan (security control) yang\nkomprehensif sesuai dengan hasil identifikasi aset, ancaman,\ndan kerentanan sebagaimana dimaksud pada angka 2;\nb. melakukan\npemeliharaan\ndan\nperbaikan\nterhadap\npengendalian keamanan atas aset TI sesuai dengan kebijakan\ndan prosedur yang berlaku;\nc. menerapkan sistem pengamanan yang dikelola dengan baik\nsesuai kebijakan dan prosedur yang berlaku;\nd. melakukan penginian pengendalian keamanan Bank secara\nberkala untuk memastikan kecukupan kontrol keamanan yang\ndigunakan sesuai dengan hasil terkini dari proses identifikasi;\ne. menerapkan manajemen keamanan data dan informasi serta\nmemastikan bahwa data dan/atau informasi dikelola sesuai\ndengan strategi manajemen risiko organisasi untuk melindungi\nkerahasiaan, integritas, serta ketersediaan data dan informasi;\nf. menerapkan manajemen pelindungan terhadap\njaringan,\nperangkat keras, dan perangkat lunak;\ng. menerapkan manajemen pelindungan terhadap akses dan\npengguna untuk mencegah tindakan tidak terotorisasi pada\nperangkat, infrastruktur jaringan, dan komponen sistem yang\ndikelola oleh Bank;\nh. menerapkan pelindungan yang memadai dalam pelaksanaan\nkerja sama antara Bank dengan pihak penyedia jasa TI,\ntermasuk dalam penggunaan cloud;\ni. memastikan penerapan secure coding dalam pengembangan\nsistem dan aplikasi untuk meminimalisasi kerentanan atas\nsistem dan aplikasi; dan\nj. memastikan pelaksanaan patching berjalan dengan baik serta\nmemastikan keandalan dan kemutakhiran seluruh komponen\nperangkat lunak, jaringan komunikasi, database, dan sistem\noperasi (operating system) Bank."
+        },
+        {
+          "article_number": "IV.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Proses Deteksi Insiden Siber\nPada proses deteksi insiden siber, Bank paling sedikit:\na. memastikan ketersediaan dokumentasi kinerja dasar (baseline\nperformance) atas fungsi kritis Bank dan sistem pendukung,\nagar setiap penyimpangan dapat dideteksi secara tepat waktu\nserta aktivitas dan kejadian anomali dapat ditandai untuk\nditindaklanjuti;\nb. melakukan pemantauan atas aktivitas mencurigakan serta\nmelakukan pengelolaan dan pengujian terhadap proses dan\nprosedur deteksi untuk memastikan aktivitas anomali dapat\ndideteksi secara tepat waktu;\nc. melakukan pemantauan atau deteksi secara berkelanjutan\nterhadap kerentanan untuk memastikan efektivitas upaya\npelindungan yang telah diterapkan;\nd. memastikan ketersediaan proses untuk mendeteksi insiden\nsiber secara memadai; dan\ne. melakukan analisis terhadap ancaman dan kerentanan dari\nsuatu insiden siber untuk memastikan penanganan insiden\nsecara efektif sehingga dapat mencegah terjadinya gangguan\npada layanan dan/atau operasional Bank."
+        },
+        {
+          "article_number": "IV.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Proses Penanggulangan dan Pemulihan Insiden Siber\nPada proses penanggulangan dan pemulihan insiden siber, Bank\npaling sedikit:\na. menetapkan rencana penanggulangan dan pemulihan insiden\nsiber untuk memastikan penanggulangan dan pengembalian\nlayanan yang tepat waktu sesuai dengan risiko yang\nditimbulkan, dengan dampak minimal;\nb. menetapkan peran serta tugas dan tanggung jawab tim\ntanggap insiden siber untuk memastikan penanggulangan dan\npemulihan\ninsiden siber dilaksanakan dengan dampak\nminimal terhadap layanan dan operasional Bank;\nc. menerapkan prosedur pemulihan dan upaya untuk mencegah\npenyebaran dampak dari suatu\ninsiden siber dengan\nmemitigasi dampak dan menanggulangi insiden siber tersebut;\nd. melakukan\nanalisis\nuntuk memastikan\nlangkah\npenanggulangan dan pemulihan insiden siber dijalankan\ndengan tepat;\ne. melakukan eskalasi dan pelaporan atas insiden siber sesuai\ndengan jalur komunikasi yang telah ditetapkan; dan\nf. melakukan analisis pascainsiden sebagai bahan pelajaran\nterpetik\n(lesson\nlearned) dalam penanggulangan dan\npemulihan insiden siber untuk perbaikan berkelanjutan."
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+      "title": "PENILAIAN TINGKAT MATURITAS KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "V.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penilaian maturitas keamanan siber bertujuan untuk mengukur\ntingkat maturitas yang telah dicapai oleh Bank. Tingkat maturitas\nkeamanan siber mencerminkan kondisi keamanan siber pada Bank.\nDalam hal teridentifikasi terdapat area yang memiliki kelemahan\ndan memerlukan perbaikan, hal tersebut dapat menjadi masukan\ndalam meningkatkan ketahanan dan keamanan siber Bank."
+        },
+        {
+          "article_number": "V.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tata Cara Penilaian Tingkat Maturitas Keamanan Siber\na. Bank melakukan penilaian tingkat maturitas keamanan siber.\nPenilaian tersebut dilakukan secara tahunan untuk posisi\nakhir bulan Desember. Bank dapat melakukan penginian\npenilaian tersebut sewaktu-waktu apabila diperlukan.\nb. Penilaian tingkat maturitas keamanan siber mencakup\npenilaian terhadap:\n1) kualitas penerapan manajemen risiko terkait keamanan\nsiber, yang meliputi aspek:\na.\ntata kelola risiko terkait keamanan siber;\nb. kerangka manajemen risiko terkait keamanan siber;\nc.\nproses manajemen risiko, kecukupan SDM, dan\nkecukupan sistem\ninformasi manajemen risiko,\nterkait keamanan siber; dan\nd.\nsistem pengendalian risiko terkait keamanan siber;\n2) kualitas penerapan proses ketahanan siber, yang meliputi\nproses:\na.\nidentifikasi aset, ancaman, dan kerentanan;\nb. pelindungan aset;\nc.\ndeteksi insiden siber; dan\nd. penanggulangan dan pemulihan insiden siber.\nc. Dalam menilai tingkat kualitas penerapan manajemen risiko\nterkait keamanan siber dan kualitas penerapan proses\nketahanan siber sebagaimana dimaksud pada huruf b, Bank\nmelakukan analisis terhadap penerapan kontrol sebagaimana\ntercantum dalam Lampiran I.b dan Lampiran I.c yang\nmerupakan bagian tidak terpisahkan dari Surat Edaran\nOtoritas Jasa Keuangan ini.\nd. Dalam melakukan penilaian tingkat maturitas keamanan\nsiber, Bank menggunakan format sebagaimana tercantum\ndalam Lampiran II.b dan Lampiran II.c yang merupakan bagian\ntidak terpisahkan dari Surat Edaran Otoritas Jasa Keuangan\nini.\ne.\nPenetapan tingkat kualitas sebagaimana dimaksud pada huruf\nc dikategorikan ke dalam Peringkat 1 (Strong), Peringkat 2\n(Satisfactory), Peringkat 3 (Fair), Peringkat 4 (Marginal), dan\nPeringkat 5 (Unsatisfactory) dilakukan dengan mengacu pada\ndefinisi peringkat sebagaimana tercantum dalam:\n1) Lampiran III.b bagi penerapan manajemen risiko terkait\nkeamanan siber; dan\n2) Lampiran III.c bagi penerapan proses ketahanan siber,\nyang merupakan bagian tidak terpisahkan dari Surat Edaran\nOtoritas Jasa Keuangan ini.\nf.\nPenetapan tingkat maturitas keamanan siber dikategorikan\nke dalam 5 (lima) tingkat, yaitu Tingkat 1, Tingkat 2,\nTingkat 3, Tingkat 4, dan Tingkat 5 dilakukan dengan mengacu\npada definisi peringkat sebagaimana\ntercantum dalam\nLampiran III.d yang merupakan bagian tidak terpisahkan dari\nSurat Edaran Otoritas Jasa Keuangan ini."
+        },
+        {
+          "article_number": "V.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Hasil penilaian tingkat maturitas keamanan siber sebagaimana\ndimaksud pada angka 2 huruf d dan tingkat maturitas keamanan\nsiber sebagaimana dimaksud pada 2 huruf f disampaikan kepada\nOtoritas Jasa Keuangan sebagai bagian dari laporan kondisi terkini\npenyelenggaraan TI Bank, yaitu paling lama 15 (lima belas) hari\nkerja setelah akhir tahun pelaporan menggunakan\nformat\nsebagaimana tercantum dalam Lampiran V yang merupakan bagian\ntidak terpisahkan dari Surat Edaran Otoritas Jasa Keuangan ini."
+        },
+        {
+          "article_number": "V.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penilaian tingkat maturitas keamanan siber pertama kali dilakukan\noleh Bank untuk posisi akhir bulan Desember 2022 dan hasil\npenilaian dimaksud disampaikan kepada Otoritas Jasa Keuangan\npaling lambat pada akhir bulan Juni 2023. Untuk penilaian tahun\nberikutnya disampaikan sesuai dengan tenggat waktu sebagaimana\ndimaksud pada angka 3."
+        },
+        {
+          "article_number": "V.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Otoritas Jasa Keuangan melakukan penelaahan atas hasil penilaian\ntingkat maturitas keamanan siber sebagaimana dimaksud pada\nangka 3. Dalam hal berdasarkan penelaahan Otoritas Jasa\nKeuangan menunjukkan bahwa hasil penilaian tingkat maturitas\nkeamanan siber\ntidak mencerminkan kondisi Bank yang\nsebenarnya, Otoritas Jasa Keuangan dapat menyesuaikan hasil\npenilaian tingkat maturitas keamanan siber."
+        },
+        {
+          "article_number": "V.6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tingkat maturitas keamanan siber dipertimbangkan sebagai\nparameter atau indikator tambahan dari kualitas penerapan\nmanajemen risiko untuk aspek TI pada risiko operasional dalam\npenilaian tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VI",
+      "title": "TINGKAT RISIKO TERKAIT KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "VI.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tingkat risiko terkait keamanan siber ditetapkan berdasarkan\npenilaian risiko inheren terkait keamanan siber dan tingkat\nmaturitas keamanan siber."
+        },
+        {
+          "article_number": "VI.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penetapan tingkat risiko terkait keamanan siber dikategorikan ke\ndalam Peringkat 1 (low), Peringkat 2 (low to moderate), Peringkat 3\n(moderate), Peringkat 4 (moderate to high), dan Peringkat 5 (high).\nUrutan peringkat tingkat risiko terkait keamanan siber yang lebih\nkecil mencerminkan semakin rendahnya risiko terkait keamanan\nsiber yang dihadapi oleh Bank."
+        },
+        {
+          "article_number": "VI.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tingkat risiko terkait keamanan siber sebagaimana dimaksud pada\nangka 1 disampaikan kepada Otoritas Jasa Keuangan sebagai\nbagian dari laporan kondisi terkini penyelenggaraan TI Bank, yaitu\npaling lama 15 (lima belas) hari kerja setelah akhir tahun pelaporan\nmenggunakan format sebagaimana tercantum dalam Lampiran V\nyang merupakan bagian tidak terpisahkan dari Surat Edaran\nOtoritas Jasa Keuangan ini."
+        },
+        {
+          "article_number": "VI.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penetapan tingkat risiko terkait keamanan siber pertama kali\ndilakukan oleh Bank untuk posisi akhir bulan Desember 2022 dan\ndisampaikan kepada Otoritas Jasa Keuangan paling lambat pada\nakhir bulan Juni 2023. Untuk tahun berikutnya, tingkat risiko\nterkait keamanan siber disampaikan sesuai dengan tenggat waktu\nsebagaimana dimaksud pada angka 3."
+        },
+        {
+          "article_number": "VI.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Otoritas Jasa Keuangan melakukan penelaahan atas tingkat risiko\nterkait keamanan siber sebagaimana dimaksud pada angka 2.\nDalam hal berdasarkan penelaahan Otoritas Jasa Keuangan\nmenunjukkan bahwa tingkat risiko terkait keamanan siber tidak\nmencerminkan kondisi Bank yang sebenarnya, Otoritas Jasa\nKeuangan dapat menyesuaikan hasil penetapan tingkat risiko\nterkait keamanan siber."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VII",
+      "title": "PENGUJIAN KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "VII.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank melakukan pengujian keamanan siber secara berkala atas\nkeamanan jaringan, sistem, dan data sebagai langkah untuk\nmemaksimalkan upaya menjaga keamanan siber Bank. Pengujian\nkeamanan siber terbagi menjadi 2 (dua) yaitu pengujian keamanan\nsiber berdasarkan:\na.\nb.\nanalisis kerentanan; dan\nskenario."
+        },
+        {
+          "article_number": "VII.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengujian Keamanan Siber Berdasarkan Analisis Kerentanan\nBank melakukan pengujian keamanan siber berdasarkan analisis\nkerentanan untuk melihat titik lemah dari sistem Bank. Pengujian\nini dilaksanakan secara berkala berdasarkan evaluasi intern Bank.\nContoh\nfaktor yang dapat mendasari penentuan\nfrekuensi\npengujian ini yaitu tingkat kritikalitas sistem dari hasil identifikasi\naset TI Bank dan adanya perubahan pada Sistem Elektronik atau\narsitektur TI pada Bank yang mengakibatkan peningkatan eksposur\nrisiko terkait keamanan siber. Pengujian ini diawali dengan\npelaksanaan identifikasi kerentanan yang kemudian dilanjutkan\ndengan penetration test.\nPenetration\ntest merupakan pengujian yang menggunakan\nserangkaian teknik dan metodologi dengan memanfaatkan sumber\ndaya yang tersedia, antara lain source code, desain sistem, dan\nmanual sistem Bank. Penetration test bertujuan untuk menerobos\nsistem pengamanan yang ada, sesuai dengan batasan yang telah\nditentukan sebelumnya. Selanjutnya, penetration\ntest perlu\ndilakukan secara berkala pada perangkat lunak dan perangkat\nkeras yang digunakan oleh Bank, baik untuk operasional maupun\nlayanan kepada nasabah dan/atau pihak ketiga. Secara khusus,\npengujian ini harus dilakukan oleh Bank yang menyelenggarakan\nlayanan perbankan digital atau layanan lain yang beroperasi secara\ndaring."
+        },
+        {
+          "article_number": "VII.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengujian Keamanan Siber Berdasarkan Skenario\nPengujian keamanan siber berdasarkan skenario perlu dilakukan\noleh Bank untuk memvalidasi proses penanggulangan dan\npemulihan insiden siber pada Bank, termasuk rencana komunikasi\nBank dalam menghadapi ancaman siber. Dalam pelaksanaan\npengujian ini, Bank harus melibatkan pihak yang relevan, termasuk\npejabat eksekutif, fungsi bisnis, fungsi komunikasi korporasi, tim\nmanajemen krisis, penyedia\nlayanan, dan staf teknis yang\nbertanggung jawab atas proses deteksi insiden siber, serta proses\npenanggulangan dan pemulihan insiden siber. Beberapa jenis\npengujian keamanan siber berdasarkan skenario yang dapat\ndilakukan oleh Bank antara lain table-top exercise, cyber range\nexercise, social engineering exercise, dan adversarial attack\nsimulation exercise.\na. Table-top Exercise\nTable-top exercise merupakan suatu kegiatan berbasis diskusi\ndimana SDM dengan peran dan tanggung jawab tertentu pada\nBank bertemu dalam suatu forum untuk mendiskusikan peran\nmasing-masing selama keadaan darurat dan penanggulangan\nyang dilakukan terhadap situasi darurat tertentu. Dalam\npelaksanaannya, terdapat fasilitator yang memandu peserta\nmelalui diskusi yang dirancang untuk memenuhi tujuan yang\ntelah ditentukan sebelumnya.\nb. Cyber Range Exercise\nCyber range exercise merupakan pengujian yang menggunakan\nrepresentasi simulasi yang interaktif atas jaringan, sistem,\nperangkat, dan aplikasi dari Bank. Simulasi\ntersebut\nmemungkinkan pelaksanaan pengujian pada lingkungan yang\nterkendali serta tidak mengganggu kelangsungan operasional\nBank.\nc. Social Engineering Exercise\nSocial engineering exercise merupakan pengujian dengan\nmenggunakan skenario dimana penyerang memanipulasi\npegawai yang kurang waspada untuk membocorkan informasi\nsensitif seperti kata sandi, melalui penggunaan teknik seperti\nphishing dan spam. Pengujian ini dapat dilakukan untuk\nmengetahui\ntingkat kesadaran\n(awareness)\nterhadap\nkeamanan siber dari pegawai.\nd. Adversarial Attack Simulation Exercise\nAdversarial Attack Simulation Exercise (AASE) merupakan\npengujian yang menggunakan simulasi taktik, teknik, dan\nprosedur dari serangan siber di dunia nyata untuk\nmenargetkan SDM, proses, dan teknologi yang mendukung\nfungsi kritis Bank. AASE memberikan gambaran yang lebih\nrealistis tentang kemampuan organisasi untuk mencegah,\nmendeteksi, dan menanggulangi serangan. Dalam AASE\numumnya terdapat red team dan blue team. Red team berperan\nsebagai penyerang yang melakukan simulasi serangan\nmenggunakan taktik, teknik, dan prosedur dari serangan siber\ndi dunia nyata. Sementara itu, blue team berperan sebagai\npihak yang melakukan deteksi dan/atau pencegahan atas\nsimulasi serangan yang dilakukan oleh red team dan\nmenanggulangi insiden siber yang terjadi.\nHal yang perlu diperhatikan dalam pelaksanaan pengujian\nberdasarkan skenario, yaitu:\n1) pengujian dalam bentuk simulasi serangan harus dilakukan\nsecara\nterkendali di bawah pengawasan ketat untuk\nmemastikan pengujian tersebut tidak mengganggu sistem\nBank di lingkungan produksi; dan\n2)\nskenario ancaman harus dirancang dan didasarkan pada\nancaman siber yang mungkin terjadi. Bank juga dapat\nmerancang skenario melalui proses pencarian ancaman siber\nsecara proaktif yang menyeluruh, antara\nlain dengan\nmenggunakan\nthreat\nintelligence yang\nrelevan dengan\nlingkungan TI Bank untuk mengidentifikasi threat actor yang\ndapat menimbulkan ancaman siber bagi Bank, dan\nmengidentifikasi taktik, teknik, serta prosedur yang dapat\ndigunakan dalam serangan tersebut."
+        },
+        {
+          "article_number": "VII.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penyampaian Hasil Pengujian Keamanan Siber\na. Hasil pengujian keamanan siber disampaikan kepada Direksi\nsebagai landasan untuk perbaikan tata kelola, kebijakan dan\nprosedur, pengendalian intern, serta peningkatan kapasitas\ndan kesadaran (awareness) pegawai Bank terhadap ketahanan\ndan keamanan siber.\nb. Bank juga menyampaikan hasil pengujian keamanan siber\nkepada Otoritas Jasa Keuangan, dengan ketentuan sebagai\nberikut:\n1) Hasil pengujian keamanan siber berdasarkan analisis\nkerentanan sebagaimana dimaksud pada angka 2\ndisampaikan kepada Otoritas Jasa Keuangan sebagai\nbagian dari laporan kondisi terkini penyelenggaraan TI\nBank, yaitu paling lama 15 (lima belas) hari kerja setelah\nakhir tahun pelaporan.\nContoh:\nBank melakukan beberapa penetration test di tahun 2022,\nantara lain pada bulan Maret 2022, Juli 2022, dan\nNovember 2022. Kompilasi hasil pengujian keamanan\nsiber berupa penetration test tersebut disampaikan\nkepada Otoritas Jasa Keuangan paling lambat pada\ntanggal 20 Januari 2023, sebagai bagian dari laporan\nkondisi terkini penyelenggaraan TI Bank.\n2) Hasil pengujian keamanan siber berdasarkan skenario\nsebagaimana dimaksud pada angka 3 disampaikan\nkepada Otoritas Jasa Keuangan paling lama 10 (sepuluh)\nhari kerja setelah pengujian keamanan siber selesai\ndilaksanakan, sesuai dengan\nformat sebagaimana\ntercantum dalam Lampiran VI yang merupakan bagian\ntidak terpisahkan dari Surat Edaran Otoritas Jasa\nKeuangan ini. Pengujian keamanan siber dianggap selesai\ndilaksanakan pada saat laporan hasil pengujian selesai\ndisusun.\nHasil pengujian keamanan siber paling sedikit memuat:\na)\nringkasan pelaksanaan pengujian;\nb) pelajaran\nterpetik\n(lesson\nlearned) atau hasil\nobservasi dari hasil pengujian; dan\nc)\nrencana atau perbaikan yang telah dilakukan.\nContoh:\nBank melakukan pengujian keamanan siber dengan\nskenario serangan berupa ransomware pada tanggal\n3 November 2023. Selanjutnya, pengujian tersebut selesai\ndilakukan dan laporan hasil pengujian telah selesai\ndisusun pada tanggal 14 November 2023. Hasil pengujian\nkeamanan\nsiber\ntersebut\ndisampaikan\nkepada\nOtoritas\nJasa Keuangan\npaling\nlambat\npada\ntanggal 28 November 2023."
+        },
+        {
+          "article_number": "VII.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank dapat melakukan pengujian keamanan siber secara mandiri\natau menggunakan pihak ketiga. Dalam hal pengujian keamanan\nsiber menggunakan pihak ketiga, Bank harus:\na. memastikan pihak ketiga memiliki kompetensi yang memadai\nsesuai dengan kebutuhan pengujian keamanan siber; dan\nb.\ntetap bertanggung\njawab atas pelaksanaan pengujian\nkeamanan siber.\nKompetensi dari pihak ketiga dibuktikan antara lain dengan adanya\nsertifikasi dan/atau pengakuan dari lembaga yang berwenang di\nIndonesia atau di luar negeri."
+        },
+        {
+          "article_number": "VII.6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengujian keamanan siber pertama kali dilakukan oleh Bank pada\ntahun 2023."
+        },
+        {
+          "article_number": "VII.7",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank melakukan dokumentasi dan pengamanan yang memadai\natas hasil pengujian keamanan siber yang telah dilakukan untuk\nmenjaga kerahasiaan hasil pengujian keamanan siber."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VIII",
+      "title": "UNIT ATAU FUNGSI YANG MENANGANI KETAHANAN DAN KEAMANAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "VIII.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "SIBER BANK\n\nBank membentuk unit atau fungsi yang bertugas menangani\nketahanan dan keamanan siber Bank."
+        },
+        {
+          "article_number": "VIII.2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Unit atau fungsi yang menangani ketahanan dan keamanan siber\nmemiliki tugas untuk mengoordinasikan dan/atau melaksanakan:\na. proses ketahanan siber Bank sebagaimana dimaksud pada\nromawi IV;\nb. penilaian sendiri atas risiko inheren terkait keamanan siber\nsebagaimana dimaksud pada romawi II dan tingkat maturitas\nkeamanan siber sebagaimana dimaksud pada romawi V;\nc.\npenetapan tingkat risiko terkait keamanan siber sebagaimana\ndimaksud pada romawi VI; dan\nd. pengujian keamanan siber sebagaimana dimaksud pada\nromawi VII."
+        },
+        {
+          "article_number": "VIII.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Unit atau fungsi yang menangani ketahanan dan keamanan siber\nBank memiliki independensi terhadap fungsi pengelolaan TI. Fungsi\npengelolaan TI dimaksud paling sedikit berupa aktivitas\nperencanaan, penyusunan atau pengembangan, pengoperasian,\ndan pemantauan, atas kegiatan penyelenggaraan TI."
+        },
+        {
+          "article_number": "VIII.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Unit atau fungsi yang menangani ketahanan dan keamanan siber\nmengoordinasikan tim tanggap insiden siber, termasuk inisasi\npembentukannya, dengan memastikan bahwa:\na. pegawai yang terlibat dalam tim tanggap insiden siber memiliki\nkapasitas dan kemampuan terkait penanganan insiden siber,\nyaitu dengan melakukan latihan respons insiden secara rutin,\nantara lain berupa pengujian saluran komunikasi, analisis\ninsiden, pengambilan keputusan dan rekomendasi solusi, serta\nkemampuan teknis pelaporan insiden;\nb.\ntim tanggap insiden siber dapat bekerja sama dengan unit atau\nfungsi terkait (antara lain spesialis keamanan teknis, unit\nbisnis, fungsi hukum, SDM, dan tim komunikasi ekstern) dan\nmampu mengakses informasi yang diperlukan dengan cepat\n(antara lain informasi dari penyedia jasa pihak ketiga atau\ninformasi pendukung lainnya);\nc.\ntim tanggap insiden siber memiliki sumber daya analisis\ninsiden (antara lain daftar host, packet sniffer, analisis\nprotokol, dokumentasi protokol keamanan, diagram jaringan,\ndaftar aset penting, perangkat forensik digital, dan sumber\ndaya lain yang diperlukan);\nd.\ntim tanggap insiden siber dapat bekerja sama secara efektif\ndengan fungsi intelijen ancaman siber (cyber threat intelligence)\ndan network operations untuk menghasilkan penanganan\ninsiden siber yang tepat dan proaktif terhadap potensi insiden\nsiber di masa depan;\ne.\ntim tanggap insiden siber dipimpin oleh pejabat yang berasal\ndari unit atau fungsi yang menangani ketahanan dan\nkeamanan siber; dan\nf.\ntim tanggap\ninsiden siber memiliki narahubung untuk\nmendukung koordinasi dalam pelaksanaan tugas."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IX",
+      "title": "LAPORAN INSIDEN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "IX.3",
+          "section_number": null,
+          "section_title": null,
+          "content": "1.\nInsiden TI merupakan kejadian kritis, penyalahgunaan, dan/atau\nkejahatan dalam penyelenggaraan TI. Insiden TI terbagi menjadi\n2 (dua) kategori yaitu insiden siber dan insiden nonsiber.\n2.\nInsiden siber terjadi karena terganggunya keamanan siber. Insiden\nsiber merupakan ancaman siber berupa upaya, kegiatan, dan/atau\ntindakan yang mengakibatkan Sistem Elektronik tidak berfungsi\nsebagaimana mestinya. Beberapa contoh ancaman siber:\na. Malware\nMalware merupakan perangkat lunak dengan fitur atau\nkemampuan yang berpotensi mengganggu suatu sistem\ninformasi. Gangguan dimaksud dapat menimbulkan kerugian\nbagi pemilik sistem informasi, baik secara langsung maupun\ntidak langsung.\nb. Web defacement\nWeb defacement merupakan serangan yang dilakukan\nterhadap situs web dengan cara mengganti atau memodifikasi\nsitus web sehingga isi dari situs web berubah sesuai dengan\nkeinginan penyerang.\nc. Denial of Services (DoS) dan Distributed Denial of Services\n(DDoS)\nDoS dan DDoS merupakan serangan yang bertujuan untuk\nmengganggu keberlangsungan operasional (availability) suatu\nSistem Elektronik dalam memproses transaksi atau akses yang\nsah, antara lain dengan cara membuat kapasitas jaringan atau\nkapasitas komputer seolah-olah telah terpakai penuh karena\nadanya permintaan akses dalam volume yang besar.\n\nBank perlu melakukan pemantauan atas insiden siber sebagai\nbentuk komunikasi kepada para pemangku kepentingan serta\npengendalian atas pengelolaan ketahanan dan keamanan siber.\nKegiatan pemantauan insiden siber dapat bermanfaat bagi Bank\ndalam melakukan penanggulangan dan pemulihan terhadap Sistem\nElektronik Bank, sehingga kegiatan operasional Bank tetap dapat\nberjalan sebagaimana mestinya."
+        },
+        {
+          "article_number": "IX.4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank menyampaikan informasi mengenai insiden siber kepada\nOtoritas Jasa Keuangan berupa:\na. notifikasi awal insiden siber; dan\nb.\nlaporan insiden siber."
+        },
+        {
+          "article_number": "IX.5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Notifikasi awal insiden siber disampaikan oleh Bank dengan\nketentuan sebagai berikut:\na. Notifikasi awal disusun menggunakan format sebagaimana\ntercantum dalam Lampiran IV.a yang merupakan bagian tidak\nterpisahkan dari Surat Edaran Otoritas Jasa Keuangan ini.\nNotifikasi awal berisi informasi awal yang tersedia terkait\ninsiden siber pada Bank.\nb. Notifikasi awal disampaikan kepada Otoritas Jasa Keuangan\npaling lama 24 (dua puluh empat) jam setelah insiden siber\ndiketahui oleh Bank, ditujukan kepada pengawas Bank yang\nbersangkutan melalui sarana elektronik secara tertulis. Bank\nmelakukan upaya untuk memastikan bahwa notifikasi awal\ntelah diterima oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "article_number": "IX.6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Sebagai tindak lanjut dari notifikasi awal insiden siber yang telah\ndisampaikan, Bank melakukan analisis dan penanggulangan\ninsiden siber lebih lanjut. Tindak lanjut ini disampaikan melalui\nlaporan insiden siber kepada Otoritas Jasa Keuangan dengan\nketentuan sebagai berikut:\na. Laporan\ninsiden siber disusun menggunakan\nformat\nsebagaimana tercantum dalam Lampiran IV.b yang merupakan\nbagian tidak terpisahkan dari Surat Edaran Otoritas Jasa\nKeuangan ini. Laporan insiden siber berisi informasi yang lebih\nlengkap dari informasi yang telah disampaikan pada notifikasi\nawal.\nb. Laporan insiden siber disampaikan secara daring melalui\nsistem pelaporan Otoritas Jasa Keuangan paling lama 5 (lima)\nhari kerja setelah insiden siber diketahui."
+        },
+        {
+          "article_number": "IX.7",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam hal\nterdapat pengaturan otoritas\nlain mengenai\npenyampaian notifikasi awal dan/atau laporan insiden siber, Bank\nmenyampaikan notifikasi awal dan/atau laporan insiden siber\nkepada Otoritas Jasa Keuangan dengan ketentuan sebagai berikut:\na. Dalam hal otoritas lain mengatur jangka waktu penyampaian\nnotifikasi awal dan/atau laporan insiden siber lebih cepat dari\njangka waktu sebagaimana diatur dalam POJK PTI maka Bank\nmenyampaikan notifikasi awal dan/atau laporan insiden siber\nkepada Otoritas Jasa Keuangan pada saat yang bersamaan\nsesuai dengan ketentuan peraturan perundang-undangan dari\notoritas lain dimaksud.\nContoh:\nKetentuan Otoritas “A”\nJangka waktu penyampaian\nPaling lama 1 (satu) jam\nnotifikasi awal insiden siber.\nsetelah insiden siber\ndiketahui.\nJangka waktu penyampaian\nPaling lama 3 (tiga) hari\nlaporan insiden siber.\nkerja setelah insiden siber\ndiketahui.\nBank “B” mengalami insiden siber pada tanggal 22 Agustus\n2023 pukul 13.00 WITA. Mengingat\njangka waktu\npenyampaian notifikasi awal dan/atau laporan insiden siber\nberdasarkan ketentuan otoritas “A” lebih cepat daripada yang\ndiatur dalam POJK PTI, maka Bank “B” menyampaikan\nnotifikasi awal dalam kurun waktu 1 (satu) jam setelah insiden\nsiber diketahui. Apabila Bank “B” menyampaikan notifikasi\nawal insiden siber kepada otoritas “A” pada pukul 13.45 WITA\nmaka Bank “B” juga menyampaikan notifikasi awal kepada\nOtoritas Jasa Keuangan pada saat yang bersamaan.\nHal yang sama juga berlaku untuk penyampaian laporan\ninsiden siber. Apabila Bank “B” menyampaikan laporan insiden\nsiber pada tanggal 24 Agustus 2023 pukul 10.00 WITA kepada\notoritas “A” maka Bank “B” juga menyampaikan laporan\ninsiden siber kepada Otoritas Jasa Keuangan pada saat yang\nbersamaan.\nb. Apabila otoritas lain mengatur jangka waktu penyampaian\nnotifikasi awal dan/atau laporan insiden siber lebih lama dari\njangka waktu sebagaimana diatur dalam POJK PTI, maka Bank\nmenyampaikan notifikasi awal dan/atau laporan insiden siber\nkepada Otoritas Jasa Keuangan sesuai dengan POJK PTI.\nContoh:\nKetentuan Otoritas “C”\nJangka waktu penyampaian\nPaling lama 3 (tiga) hari\nnotifikasi awal insiden siber.\nkerja setelah insiden siber\ndiketahui.\nJangka waktu penyampaian\nPaling lama 10 (sepuluh)\nlaporan insiden siber.\nhari kerja setelah insiden\nsiber diketahui.\nBank “D” mengalami insiden siber pada tanggal 22 Agustus\n2023 pukul 13.00 WITA. Mengingat\njangka waktu\npenyampaian notifikasi awal dan/atau laporan insiden siber\nberdasarkan POJK PTI lebih cepat daripada yang diatur dalam\nketentuan otoritas “C” maka Bank “D” menyampaikan\nnotifikasi awal kepada Otoritas Jasa Keuangan dalam kurun\nwaktu 24 (dua puluh empat) jam setelah insiden siber\ndiketahui.\nHal yang sama juga berlaku untuk penyampaian laporan\ninsiden siber. Bank “D” menyampaikan laporan insiden siber\nkepada Otoritas Jasa Keuangan dalam kurun waktu 5 (lima)\nhari kerja setelah insiden siber diketahui."
+        }
+      ]
+    },
+    {
+      "chapter_number": "X",
+      "title": "PENUTUP",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "X.1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketentuan dalam Surat Edaran Otoritas Jasa Keuangan ini mulai\nberlaku pada tanggal ditetapkan.\nDitetapkan di Jakarta\npada tanggal 27 Desember 2022\nKEPALA\nEKSEKUTIF\nPENGAWAS\nPERBANKAN\nOTORITAS JASA KEUANGAN\nREPUBLIK INDONESIA,"
+        }
+      ]
+    }
+  ],
+  "chapter_count": 10,
+  "section_count": 0,
+  "article_count": 49,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\external\\SEOJK 29 SEOJK.03 2022.md"
+}

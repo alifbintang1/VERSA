@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the companion paper below."
+title: "VERSA: A Knowledge Graph-Centric Framework for Regulatory Compliance Checking"
+authors:
+  - family-names: "Elfandra"
+    given-names: "Alif Bintang"
+  - family-names: "Darari"
+    given-names: "Fariz"
+  - family-names: "Faisal"
+    given-names: "Douglas Raevan"
+  - family-names: "Lumban Tobing"
+    given-names: "Berty Chrismartin"
+  - family-names: "Lee"
+    given-names: "On"
+preferred-citation:
+  type: article
+  title: "VERSA: A Knowledge Graph-Centric Framework for Regulatory Compliance Checking"
+  authors:
+    - family-names: "Elfandra"
+      given-names: "Alif Bintang"
+    - family-names: "Darari"
+      given-names: "Fariz"
+    - family-names: "Faisal"
+      given-names: "Douglas Raevan"
+    - family-names: "Lumban Tobing"
+      given-names: "Berty Chrismartin"
+    - family-names: "Lee"
+      given-names: "On"
+  year: 2026
+  notes: "Under review."

@@ -1,0 +1,151 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "KETENTUAN UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Definisi\nDalam Peraturan Direksi ini yang dimaksud dengan:\n1. Bank adalah PT Bank Nusantara Prima.\n2. Direksi adalah organ Bank yang menjalankan kepengurusan harian\ndan memikul akuntabilitas tertinggi atas seluruh kegiatan\noperasional, termasuk infrastruktur Teknologi Informasi (TI).\n3. Dewan Komisaris adalah organ Bank yang menjalankan fungsi\npengawasan strategis.\n4. Penyelenggaraan TI mencakup keseluruhan sistem, infrastruktur,\naplikasi, jaringan, perangkat pendukung, serta sumber daya\nmanusia yang menjalankan kegiatan komputasi Bank.\n5. Pihak Penyedia Jasa TI adalah perorangan atau badan usaha di\nluar Bank yang memberikan layanan, perangkat, atau dukungan\nteknis bagi penyelenggaraan TI Bank.\n6. Layanan Digital adalah pemberian produk dan jasa perbankan\nmelalui media elektronik.\n7. Otoritas Jasa Keuangan yang selanjutnya disingkat OJK adalah\nlembaga negara yang independen."
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "title": "KERANGKA AKUNTABILITAS PENYELENGGARAAN TI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Akuntabilitas Pengurus Bank atas Penyelenggaraan TI\n1. Direksi memikul akuntabilitas tertinggi atas keseluruhan\npengelolaan risiko yang melekat pada penyelenggaraan\nTeknologi Informasi, termasuk perumusan dokumen strategi\nmulti-tahun, penetapan baku mutu operasional, serta evaluasi\nperiodik atas pencapaian target.\n2. Dewan Komisaris menjalankan fungsi pengawasan strategis atas\npelaksanaan rencana TI dan penerapan tata kelola TI yang\ndiselenggarakan oleh Direksi.\n3. Bank memetakan wewenang setiap jenjang jabatan yang terkait\ndengan penerapan tata kelola TI dalam dokumen organisasi\ninternal."
+        },
+        {
+          "article_number": "3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Komite Pengarah Teknologi Informasi\nBank dapat membentuk komite pengarah TI yang anggotanya mencakup\nunsur direktur yang membawahkan satuan kerja penyelenggara TI dan\nsatuan kerja manajemen risiko, dengan tugas memberikan rekomendasi\nkepada Direksi."
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "title": "MANAJEMEN RISIKO ATAS PENYELENGGARAAN TI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Kerangka Manajemen Risiko Teknologi Informasi\n1. Bank menyelenggarakan manajemen risiko atas penyelenggaraan TI\nsecara terintegrasi yang mencakup proses identifikasi risiko,\npengukuran risiko, pemantauan risiko, dan pengendalian risiko.\n2. Bank memastikan kecukupan sistem informasi manajemen risiko\ndalam mendukung penyelenggaraan TI."
+        },
+        {
+          "article_number": "5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketahanan Siber dan Penanggulangan Insiden\n1. Bank menjaga ketahanan siber atas penyelenggaraan TI melalui\nproses identifikasi aset, ancaman, dan kerentanan; pelindungan\naset; deteksi insiden siber; serta penanggulangan dan pemulihan\ninsiden siber.\n2. Insiden siber yang terdeteksi ditangani sesuai prosedur\nresponse time yang ditetapkan oleh satuan kerja keamanan siber."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "title": "ASESMEN MANDIRI DAN KAJI ULANG EKSTERNAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Asesmen Mandiri terhadap Penyelenggaraan TI\nBank menyelenggarakan asesmen mandiri secara menyeluruh terhadap\npenyelenggaraan TI sebagai bagian dari fungsi audit intern, paling\nsedikit 1 (satu) kali dalam 1 (satu) tahun, dengan ruang lingkup\nyang ditentukan berdasarkan analisis risiko."
+        },
+        {
+          "article_number": "7",
+          "section_number": null,
+          "section_title": null,
+          "content": "Kaji Silang oleh Pihak Independen\nFungsi audit intern atas penyelenggaraan TI ditelaah ulang oleh\npihak ekstern yang independen dengan frekuensi yang lebih jarang\ndaripada satu kali dalam tiga tahun."
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+      "title": "KETENTUAN HUBUNGAN DENGAN PIHAK EKSTERNAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "8",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pelibatan Pihak Penyedia Jasa TI\n1. Bank dapat melibatkan Pihak Penyedia Jasa TI dalam\npenyelenggaraan kegiatan TI.\n2. Bank memastikan adanya kemampuan pengawasan internal atas\npelaksanaan kegiatan Bank yang dijalankan oleh Pihak Penyedia\nJasa TI.\n3. Bank menetapkan dokumen tata laksana penggunaan Pihak Penyedia\nJasa TI yang memuat aspek identifikasi kebutuhan dan proses\npemilihan, namun tidak menjabarkan secara rinci proses\nmanajemen risiko maupun penilaian kinerja."
+        },
+        {
+          "article_number": "9",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pelindungan Privasi Pelanggan dalam Hubungan Kerja Sama\nBank menerapkan prinsip-prinsip pelindungan data pribadi dalam\nhubungan kerja sama dengan pihak lain yang melibatkan pertukaran\ninformasi nasabah, dengan mengikuti ketentuan peraturan\nperundang-undangan yang berlaku."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VI",
+      "title": "LAYANAN DIGITAL DAN OTENTIKASI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "10",
+          "section_number": null,
+          "section_title": null,
+          "content": "Mekanisme Verifikasi Berlapis untuk Transaksi Keuangan\nBank menerapkan mekanisme verifikasi yang menggabungkan paling\nsedikit 2 (dua) elemen otentikasi untuk seluruh transaksi keuangan\nyang dilakukan nasabah melalui Layanan Digital."
+        },
+        {
+          "article_number": "11",
+          "section_number": null,
+          "section_title": null,
+          "content": "Identifikasi Calon Nasabah secara Elektronik\nPada saat pembukaan hubungan usaha dengan calon nasabah melalui\nLayanan Digital, Bank melakukan identifikasi dan verifikasi\nkebenaran data calon nasabah dengan mekanisme satu faktor berbasis\ndokumen identitas."
+        },
+        {
+          "article_number": "12",
+          "section_number": null,
+          "section_title": null,
+          "content": "Kesesuaian Sumber Data dalam Layanan Digital\nBank memastikan kesesuaian dan integritas data yang digunakan\ndalam penyelenggaraan Layanan Digital dengan sumber data primer\nyang berwenang."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VII",
+      "title": "PENERAPAN KERANGKA KEAMANAN TERPADU",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "13",
+          "section_number": null,
+          "section_title": null,
+          "content": "Kerangka Pengelolaan Risiko Operasional dan Keamanan Siber Terpadu\n1. Bank menerapkan kerangka pengelolaan risiko atas penyelenggaraan\nTeknologi Informasi secara efektif dan terintegrasi pada setiap\ntahapan penyelenggaraan.\n2. Kerangka pengelolaan risiko sebagaimana dimaksud pada ayat (1)\npaling sedikit mencakup proses identifikasi risiko, pengukuran\nrisiko, pemantauan risiko, dan pengendalian risiko.\n3. Bank memastikan kecukupan sistem informasi pendukung pengelolaan\nrisiko serta menjaga ketahanan terhadap gangguan siber melalui\nproses identifikasi aset, ancaman, dan kerentanan; pelindungan\naset; deteksi insiden; serta penanggulangan dan pemulihan.\n4. Penerapan ketentuan dalam Pasal ini mengikuti ketentuan\nperaturan perundang-undangan yang berlaku."
+        },
+        {
+          "article_number": "14",
+          "section_number": null,
+          "section_title": null,
+          "content": "Tata Laksana Penanganan Data Pribadi Pelanggan dalam Kerja Sama\n1. Bank menerapkan prinsip pelindungan data pribadi dalam\nkeseluruhan kegiatan pemrosesan data pribadi nasabah maupun\ncalon nasabah.\n2. Pembukaan akses data dan informasi nasabah kepada pihak mitra\nBank dalam rangka penyelenggaraan Layanan Digital dilakukan\nberdasarkan persetujuan nasabah atau calon nasabah dan untuk\nkepentingan nasabah, dengan memperhatikan ketentuan peraturan\nperundang-undangan mengenai pelindungan data pribadi.\n3. Bank menyediakan fitur bagi nasabah untuk mengelola hak akses\nmitra Bank terhadap data dan informasi nasabah secara mandiri."
+        },
+        {
+          "article_number": "15",
+          "section_number": null,
+          "section_title": null,
+          "content": "Akuntabilitas Tata Kelola Penyelenggaraan TI\n1. Bank menetapkan kerangka wewenang dan tanggung jawab atas\npenerapan tata kelola Teknologi Informasi yang melibatkan\nDireksi, Dewan Komisaris, serta pejabat pada setiap jenjang\njabatan yang terkait dengan penyelenggaraan TI.\n2. Direksi menetapkan rencana strategis TI, kebijakan, standar,\ndan prosedur penyelenggaraan TI, serta mengevaluasi pencapaian\ntujuan strategis dan memantau kegiatan penyelenggaraan TI.\n3. Dewan Komisaris menjalankan evaluasi, pengarahan, dan pemantauan\natas rencana strategis TI dan penerapan tata kelola TI.\nDitetapkan di Jakarta\nPada tanggal 1 Juni 2026\nDIREKSI PT BANK NUSANTARA PRIMA"
+        }
+      ]
+    }
+  ],
+  "chapter_count": 7,
+  "section_count": 0,
+  "article_count": 15,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\internal\\dummy_doc_b_concept.md"
+}

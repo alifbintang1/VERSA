@@ -1,0 +1,185 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "KETENTUAN UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Definisi\nDalam Peraturan Direksi ini yang dimaksud dengan:\n1. Bank adalah PT Bank Nusantara Prima.\n2. Direksi adalah organ perseroan yang berwenang dan bertanggung jawab penuh atas pengurusan Bank.\n3. Dewan Komisaris adalah organ perseroan yang melakukan fungsi pengawasan.\n4. Tata Kelola adalah penerapan prinsip transparansi, akuntabilitas, responsibilitas, independensi, dan kewajaran dalam pengelolaan Bank.\n5. Teknologi Informasi (TI) adalah seluruh sistem, infrastruktur, aplikasi, jaringan, dan perangkat pendukung operasional Bank.\n6. Layanan Digital adalah layanan perbankan yang disediakan melalui media elektronik atau platform digital.\n7. Unit Kerja TI adalah unit kerja yang bertanggung jawab atas pengelolaan TI.\n8. Unit Manajemen Risiko adalah unit kerja yang bertanggung jawab atas identifikasi, pengukuran, pemantauan, dan pengendalian risiko.\n9. Insiden Siber adalah setiap kejadian yang berpotensi atau telah mengganggu kerahasiaan, integritas, dan ketersediaan sistem TI Bank.",
+          "content_original": "Definisi\nDalam Peraturan Direksi ini yang dimaksud dengan:\n1. Bank adalah PT Bank Nusantara Prima.\n2. Direksi adalah organ perseroan yang berwenang dan bertanggung jawab penuh atas\npengurusan Bank.\n3. Dewan Komisaris adalah organ perseroan yang melakukan fungsi pengawasan.\n4. Tata Kelola adalah penerapan prinsip transparansi, akuntabilitas, responsibilitas,\nindependensi, dan kewajaran dalam pengelolaan Bank.\n5. Teknologi Informasi (TI) adalah seluruh sistem, infrastruktur, aplikasi, jaringan, dan\nperangkat pendukung operasional Bank.\n6. Layanan Digital adalah layanan perbankan yang disediakan melalui media elektronik\natau platform digital.\n7. Unit Kerja TI adalah unit kerja yang bertanggung jawab atas pengelolaan TI.\n8. Unit Manajemen Risiko adalah unit kerja yang bertanggung jawab atas identifikasi,\npengukuran, pemantauan, dan pengendalian risiko.\n9. Insiden Siber adalah setiap kejadian yang berpotensi atau telah mengganggu\nkerahasiaan, integritas, dan ketersediaan sistem TI Bank.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "title": "MAKSUD DAN TUJUAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Peraturan Direksi ini bertujuan untuk:\na. Menetapkan kerangka pengelolaan Tata Kelola, TI, dan Layanan Digital secara terintegrasi;\nb. Memastikan keberlangsungan operasional Bank dalam penyelenggaraan layanan berbasis teknologi;\nc. Mengatur tanggung jawab organ Bank dalam pengawasan dan pengendalian risiko TI dan digital;\nd. Mendukung pertumbuhan bisnis digital Bank secara prudent.",
+          "content_original": "Peraturan Direksi ini bertujuan untuk:\na. Menetapkan kerangka pengelolaan Tata Kelola, TI, dan Layanan Digital secara terintegrasi;\nb. Memastikan keberlangsungan operasional Bank dalam penyelenggaraan layanan berbasis\nteknologi;\nc. Mengatur tanggung jawab organ Bank dalam pengawasan dan pengendalian risiko TI dan\ndigital;\nd. Mendukung pertumbuhan bisnis digital Bank secara prudent.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "title": "TATA KELOLA TEKNOLOGI INFORMASI DAN DIGITAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "3",
+          "section_number": null,
+          "section_title": null,
+          "content": "Prinsip Tata Kelola\n1. Direksi bertanggung jawab atas efektivitas penerapan Tata Kelola TI dan Layanan Digital.\n2. Dewan Komisaris melakukan pengawasan secara berkala atas kebijakan dan implementasi TI.\n3. Direksi wajib menyusun kebijakan strategis TI paling sedikit setiap 5 (lima) tahun dan melakukan evaluasi tahunan.\n4. Komite TI dapat dibentuk berdasarkan kebutuhan dan skala usaha Bank.",
+          "content_original": "Prinsip Tata Kelola\n1. Direksi bertanggung jawab atas efektivitas penerapan Tata Kelola TI dan Layanan\nDigital.\n2. Dewan Komisaris melakukan pengawasan secara berkala atas kebijakan dan\nimplementasi TI.\n3. Direksi wajib menyusun kebijakan strategis TI paling sedikit setiap 5 (lima) tahun dan\nmelakukan evaluasi tahunan.\n4. Komite TI dapat dibentuk berdasarkan kebutuhan dan skala usaha Bank.",
+          "content_llm_cleaned": true
+        },
+        {
+          "article_number": "4",
+          "section_number": null,
+          "section_title": null,
+          "content": "Struktur dan Tanggung Jawab\n1. Unit Kerja TI berada langsung di bawah Direktur Operasional.\n2. Fungsi manajemen risiko TI dilaksanakan oleh Unit Manajemen Risiko.\n3. Fungsi audit TI dilakukan oleh Satuan Kerja Audit Intern secara berkala paling sedikit 1 (satu) kali dalam 2 (dua) tahun.",
+          "content_original": "Struktur dan Tanggung Jawab\n1. Unit Kerja TI berada langsung di bawah Direktur Operasional.\n2. Fungsi manajemen risiko TI dilaksanakan oleh Unit Manajemen Risiko.\n3. Fungsi audit TI dilakukan oleh Satuan Kerja Audit Intern secara berkala paling sedikit 1\n(satu) kali dalam 2 (dua) tahun.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "title": "PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "5",
+          "section_number": null,
+          "section_title": null,
+          "content": "Perencanaan dan Pengembangan\n1. Setiap pengembangan sistem wajib melalui proses analisis kebutuhan, uji kelayakan, dan persetujuan Direksi.\n2. Pengujian sistem dilakukan sebelum implementasi produksi.\n3. Bank dapat menggunakan penyedia jasa TI pihak ketiga berdasarkan perjanjian tertulis.",
+          "content_original": "Perencanaan dan Pengembangan\n1. Setiap pengembangan sistem wajib melalui proses analisis kebutuhan, uji kelayakan,\ndan persetujuan Direksi.\n2. Pengujian sistem dilakukan sebelum implementasi produksi.\n3. Bank dapat menggunakan penyedia jasa TI pihak ketiga berdasarkan perjanjian tertulis.",
+          "content_llm_cleaned": true
+        },
+        {
+          "article_number": "6",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengelolaan Risiko TI\n1. Identifikasi risiko TI dilakukan sekurang-kurangnya 1 (satu) kali dalam setahun.\n2. Bank menerapkan kontrol keamanan berdasarkan standar internal Bank.\n3. Evaluasi kerentanan sistem dilakukan berdasarkan kebutuhan operasional.",
+          "content_original": "Pengelolaan Risiko TI\n1. Identifikasi risiko TI dilakukan sekurang-kurangnya 1 (satu) kali dalam setahun.\n2. Bank menerapkan kontrol keamanan berdasarkan standar internal Bank.\n3. Evaluasi kerentanan sistem dilakukan berdasarkan kebutuhan operasional.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+      "title": "KETAHANAN DAN KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "7",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengamanan Sistem\n1. Bank menerapkan mekanisme pengamanan akses berbasis otorisasi pengguna.\n2. Bank menyediakan sistem pencadangan data (backup) yang diperbarui secara berkala.\n3. Uji penetrasi dilakukan minimal 1 (satu) kali dalam 2 (dua) tahun atau apabila diperlukan.",
+          "content_original": "Pengamanan Sistem\n1. Bank menerapkan mekanisme pengamanan akses berbasis otorisasi pengguna.\n2. Bank menyediakan sistem pencadangan data (backup) yang diperbarui secara berkala.\n3. Uji penetrasi dilakukan minimal 1 (satu) kali dalam 2 (dua) tahun atau apabila\ndiperlukan.",
+          "content_llm_cleaned": true
+        },
+        {
+          "article_number": "8",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penanganan Insiden Siber\n1. Setiap Insiden Siber wajib dilaporkan kepada Unit Kerja TI.\n2. Direksi diberitahukan atas Insiden Siber material.\n3. Pelaporan kepada regulator dilakukan apabila insiden berdampak signifikan terhadap operasional Bank.",
+          "content_original": "Penanganan Insiden Siber\n1. Setiap Insiden Siber wajib dilaporkan kepada Unit Kerja TI.\n2. Direksi diberitahukan atas Insiden Siber material.\n3. Pelaporan kepada regulator dilakukan apabila insiden berdampak signifikan terhadap\noperasional Bank.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "VI",
+      "title": "LAYANAN DIGITAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "9",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengembangan Layanan Digital\n1. Layanan Digital harus memperoleh persetujuan Direksi.\n2. Uji coba terbatas (pilot project) dapat dilakukan sebelum peluncuran resmi.\n3. Edukasi nasabah dilakukan melalui media komunikasi Bank.",
+          "content_original": "Pengembangan Layanan Digital\n1. Layanan Digital harus memperoleh persetujuan Direksi.\n2. Uji coba terbatas (pilot project) dapat dilakukan sebelum peluncuran resmi.\n3. Edukasi nasabah dilakukan melalui media komunikasi Bank.",
+          "content_llm_cleaned": true
+        },
+        {
+          "article_number": "10",
+          "section_number": null,
+          "section_title": null,
+          "content": "Manajemen Risiko Layanan Digital\n1. Risiko operasional dan reputasi atas Layanan Digital dikelola oleh Unit Manajemen Risiko.\n2. Evaluasi tingkat maturitas digital dilakukan secara internal setiap 2 (dua) tahun.\n3. Bank menetapkan target pertumbuhan pengguna digital tanpa kewajiban penyampaian laporan maturitas kepada regulator secara berkala kecuali diminta.",
+          "content_original": "Manajemen Risiko Layanan Digital\n1. Risiko operasional dan reputasi atas Layanan Digital dikelola oleh Unit Manajemen\nRisiko.\n2. Evaluasi tingkat maturitas digital dilakukan secara internal setiap 2 (dua) tahun.\n3. Bank menetapkan target pertumbuhan pengguna digital tanpa kewajiban penyampaian\nlaporan maturitas kepada regulator secara berkala kecuali diminta.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "VII",
+      "title": "PENGAWASAN DAN PELAPORAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "11",
+          "section_number": null,
+          "section_title": null,
+          "content": "1. Direksi menyampaikan laporan implementasi TI dan Digital kepada Dewan Komisaris sekurang-kurangnya 1 (satu) kali dalam setahun.\n2. Laporan kepada regulator dilakukan sesuai permintaan atau apabila terdapat perubahan signifikan.",
+          "content_original": "1. Direksi menyampaikan laporan implementasi TI dan Digital kepada Dewan Komisaris\nsekurang-kurangnya 1 (satu) kali dalam setahun.\n2. Laporan kepada regulator dilakukan sesuai permintaan atau apabila terdapat perubahan\nsignifikan.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "VIII",
+      "title": "SANKSI INTERNAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "12",
+          "section_number": null,
+          "section_title": null,
+          "content": "1. Setiap pelanggaran terhadap Peraturan Direksi ini dikenakan sanksi administratif internal.\n2. Sanksi dapat berupa teguran tertulis, pembatasan kewenangan, atau tindakan disipliner lainnya.",
+          "content_original": "1. Setiap pelanggaran terhadap Peraturan Direksi ini dikenakan sanksi administratif\ninternal.\n2. Sanksi dapat berupa teguran tertulis, pembatasan kewenangan, atau tindakan disipliner\nlainnya.",
+          "content_llm_cleaned": true
+        }
+      ]
+    },
+    {
+      "chapter_number": "IX",
+      "title": "KETENTUAN PENUTUP",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "13",
+          "section_number": null,
+          "section_title": null,
+          "content": "1. Peraturan Direksi ini mulai berlaku pada tanggal ditetapkan.\n2. Ketentuan lebih lanjut dapat diatur dalam Surat Edaran Direksi.\n\nDitetapkan di Jakarta\nPada tanggal 5 Januari 2026\nDIREKSI\nPT BANK NUSANTARA PRIMA",
+          "content_original": "1. Peraturan Direksi ini mulai berlaku pada tanggal ditetapkan.\n2. Ketentuan lebih lanjut dapat diatur dalam Surat Edaran Direksi.\nDitetapkan di Jakarta\nPada tanggal 5 Januari 2026\nDIREKSI\nPT BANK NUSANTARA PRIMA",
+          "content_llm_cleaned": true
+        }
+      ]
+    }
+  ],
+  "chapter_count": 9,
+  "section_count": 0,
+  "article_count": 13,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\internal\\[Dummy] 012_PD-DIR_BNP_I_2026.md",
+  "llm_cleaning_meta": {
+    "model": "gpt-5.4-mini",
+    "processed_articles": 13,
+    "skipped_articles": 0,
+    "source_file": "sample_docs\\internal\\[Dummy] 012_PD-DIR_BNP_I_2026.bab-pasal.json"
+  }
+}

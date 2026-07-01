@@ -1,0 +1,517 @@
+{
+  "description": "Example VERSA compliance-check outputs (reasoner records) for one internal policy document against the active external corpus. Ground-truth labels are not included.",
+  "model": "gpt-5.4-mini",
+  "n_records": 30,
+  "records": [
+    {
+      "internal_pasal": "2",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "4",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.93,
+        "reasoning": "Pasal eksternal mewajibkan Bank menetapkan wewenang dan tanggung jawab yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan terkait penerapan tata kelola TI. Pasal internal menetapkan bahwa Direksi bertanggung jawab atas efektivitas penerapan tata kelola TI, menyusun kebijakan strategis TI, mengevaluasi kebijakan tersebut, serta menyampaikan hasil evaluasi kepada Dewan Komisaris. Ini menunjukkan adanya penetapan tanggung jawab Direksi yang jelas dalam tata kelola TI dan mekanisme akuntabilitas yang mendukung kewajiban eksternal, tanpa pertentangan atau pelemahan kewajiban utama.",
+        "external_obligation": "Bank wajib menetapkan wewenang dan tanggung jawab yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan yang terkait dengan penerapan tata kelola TI.",
+        "internal_position": "Direksi bertanggung jawab atas efektivitas penerapan Tata Kelola TI; wajib menyusun kebijakan strategis TI; kebijakan dievaluasi minimal setahun sekali; hasil evaluasi disampaikan kepada Dewan Komisaris dan didokumentasikan.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "2",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "5",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.95,
+        "reasoning": "Pasal eksternal mewajibkan Direksi tidak hanya menetapkan rencana strategis TI dan kebijakan terkait TI, tetapi juga menetapkan standar dan prosedur, mengomunikasikan kebijakan secara efektif kepada satuan kerja penyelenggara dan pengguna TI, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI. Pasal internal hanya memuat tanggung jawab umum atas tata kelola TI, kewajiban menyusun kebijakan strategis TI yang sejalan dengan rencana bisnis, evaluasi tahunan, dan pelaporan kepada Dewan Komisaris. Unsur standar, prosedur, komunikasi efektif, pengarahan pejabat eksekutif, dan pemantauan seluruh kegiatan tidak tercakup, sehingga kewajiban eksternal belum terpenuhi sepenuhnya.",
+        "external_obligation": "Direksi paling sedikit menetapkan rencana strategis TI; menetapkan kebijakan, standar, dan prosedur TI serta mengomunikasikannya secara efektif; dan mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, serta memantau seluruh kegiatan penyelenggaraan TI.",
+        "internal_position": "Direksi bertanggung jawab atas efektivitas penerapan Tata Kelola TI, wajib menyusun kebijakan strategis TI yang sejalan dengan rencana bisnis Bank, dievaluasi paling sedikit 1 kali setahun, dan hasil evaluasi disampaikan kepada Dewan Komisaris serta didokumentasikan tertulis.",
+        "gap_summary": "Internal tidak memuat kewajiban menetapkan standar dan prosedur TI, komunikasi efektif kepada unit/pengguna TI, pengarahan pejabat eksekutif, dan pemantauan seluruh kegiatan penyelenggaraan TI.",
+        "recommended_action": "Tambahkan ketentuan eksplisit bahwa Direksi menetapkan rencana strategis TI, kebijakan/standar/prosedur TI, mengomunikasikannya secara efektif kepada unit terkait dan pengguna TI, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan TI."
+      }
+    },
+    {
+      "internal_pasal": "2",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "6",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.95,
+        "reasoning": "Pasal eksternal mewajibkan Dewan Komisaris untuk mengevaluasi, mengarahkan, dan memantau rencana strategis TI serta penerapan tata kelola TI. Pasal internal memang mengatur penyusunan kebijakan strategis TI oleh Direksi, evaluasi tahunan, dan pelaporan kepada Dewan Komisaris, tetapi tidak memuat kewajiban Dewan Komisaris untuk secara aktif mengevaluasi, mengarahkan, dan memantau rencana strategis TI maupun penerapan tata kelola TI. Karena unsur kewajiban utama pada pihak yang dituju eksternal tidak tercakup penuh, maka belum comply.",
+        "external_obligation": "Dewan Komisaris wajib mengevaluasi, mengarahkan, dan memantau rencana strategis TI serta penerapan tata kelola TI.",
+        "internal_position": "Direksi bertanggung jawab atas efektivitas tata kelola TI, menyusun kebijakan strategis TI, mengevaluasi kebijakan tersebut setahun sekali, dan menyampaikan hasil evaluasi kepada Dewan Komisaris.",
+        "gap_summary": "Kewajiban aktif Dewan Komisaris untuk mengevaluasi, mengarahkan, dan memantau tidak diatur; internal hanya mewajibkan Direksi mengevaluasi dan melaporkan kepada Dewan Komisaris.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit mewajibkan Dewan Komisaris untuk mengevaluasi, mengarahkan, dan memantau rencana strategis TI serta penerapan tata kelola TI."
+      }
+    },
+    {
+      "internal_pasal": "3",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "5",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.97,
+        "reasoning": "Pasal eksternal mewajibkan Direksi tidak hanya menetapkan kebijakan/standar/prosedur TI, tetapi juga mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif Bank, dan memantau seluruh kegiatan penyelenggaraan TI untuk memastikan penerapan tata kelola TI. Pasal internal hanya mengatur frekuensi reviu/evaluasi kebijakan strategis TI paling sedikit 1 kali dalam 10 tahun, sehingga hanya mencakup sebagian aspek evaluasi dan tidak memuat kewajiban pengarahan serta pemantauan seluruh kegiatan penyelenggaraan TI. Karena cakupan kewajiban eksternal tidak terpenuhi sepenuhnya, hasilnya NON_COMPLY.",
+        "external_obligation": "Direksi wajib menetapkan rencana strategis TI, menetapkan kebijakan/standar/prosedur TI yang memadai dan dikomunikasikan efektif, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif Bank, dan memantau seluruh kegiatan penyelenggaraan TI untuk memastikan tata kelola TI.",
+        "internal_position": "Kebijakan strategis TI yang ditetapkan Direksi dievaluasi secara menyeluruh paling sedikit 1 kali dalam 10 tahun.",
+        "gap_summary": "Internal hanya mengatur evaluasi berkala kebijakan strategis TI, tetapi tidak mencakup kewajiban Direksi untuk mengarahkan pejabat eksekutif dan memantau seluruh kegiatan penyelenggaraan TI; juga tidak menegaskan seluruh unsur kewajiban eksternal.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit mewajibkan Direksi menetapkan kebijakan/standar/prosedur TI yang memadai, mengomunikasikannya secara efektif, mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI."
+      }
+    },
+    {
+      "internal_pasal": "3",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "12",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Pasal eksternal mewajibkan Bank memiliki rencana strategis TI yang mendukung rencana korporasi Bank dan disusun untuk penyelenggaraan TI jangka panjang sesuai periode rencana korporasi. Pasal internal hanya mengatur frekuensi evaluasi/reviu kebijakan strategis TI oleh Direksi paling sedikit 1 kali dalam 10 tahun, tanpa memuat kewajiban memiliki rencana strategis TI, tanpa menyebut dukungan terhadap rencana korporasi, dan tanpa memastikan penyusunan untuk jangka panjang sesuai periode rencana korporasi. Karena inti kewajiban eksternal tidak tercakup, hasilnya non-compliant.",
+        "external_obligation": "Bank wajib memiliki rencana strategis TI yang mendukung rencana korporasi Bank dan disusun untuk penyelenggaraan TI dalam jangka panjang sesuai periode rencana korporasi Bank.",
+        "internal_position": "Kebijakan strategis Teknologi Informasi sebagaimana ditetapkan oleh Direksi dievaluasi secara menyeluruh paling sedikit 1 (satu) kali dalam 10 (sepuluh) tahun.",
+        "gap_summary": "Internal hanya mengatur evaluasi berkala kebijakan TI, bukan kewajiban memiliki rencana strategis TI yang selaras dengan rencana korporasi dan jangka waktunya.",
+        "recommended_action": "Tambahkan ketentuan bahwa Bank wajib memiliki rencana strategis TI yang mendukung rencana korporasi Bank dan disusun untuk jangka panjang sesuai periode rencana korporasi, serta atur mekanisme peninjauan yang memastikan keselarasan tersebut."
+      }
+    },
+    {
+      "internal_pasal": "3",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "13",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.97,
+        "reasoning": "Kewajiban eksternal mewajibkan Bank menyampaikan rencana strategis TI kepada OJK paling lambat akhir November tahun sebelum periode awal rencana strategis TI dimulai. Pasal internal hanya mengatur frekuensi evaluasi/reviu kebijakan strategis TI oleh Direksi paling sedikit 1 kali dalam 10 tahun, tanpa kewajiban penyampaian kepada OJK dan tanpa tenggat waktu pengajuan. Karena inti kewajiban eksternal tidak tercakup, internal tidak comply.",
+        "external_obligation": "Bank wajib menyampaikan rencana strategis TI kepada Otoritas Jasa Keuangan paling lambat pada akhir bulan November tahun sebelum periode awal rencana strategis TI dimulai.",
+        "internal_position": "Kebijakan strategis Teknologi Informasi sebagaimana ditetapkan oleh Direksi dievaluasi secara menyeluruh paling sedikit 1 (satu) kali dalam 10 (sepuluh) tahun.",
+        "gap_summary": "Tidak ada pengaturan mengenai kewajiban penyampaian rencana strategis TI kepada OJK dan tidak ada batas waktu penyampaian; internal hanya mengatur evaluasi internal berkala.",
+        "recommended_action": "Tambahkan ketentuan bahwa rencana strategis TI harus disampaikan kepada OJK paling lambat akhir November tahun sebelum periode awal rencana strategis TI dimulai."
+      }
+    },
+    {
+      "internal_pasal": "4",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "54",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.98,
+        "reasoning": "Pasal internal memuat kewajiban utama yang sama dengan pasal eksternal: Bank harus melaksanakan fungsi audit intern TI yang efektif dan menyeluruh, dilakukan sesuai kebutuhan, prioritas, dan hasil analisis risiko, dengan frekuensi paling sedikit 1 kali setahun. Selain itu, internal juga mewajibkan ketersediaan audit trail atas seluruh kegiatan penyelenggaraan TI untuk tujuan yang sama. Tidak ada pelemahan atau pertentangan terhadap kewajiban eksternal.",
+        "external_obligation": "Bank wajib melaksanakan fungsi audit intern TI yang efektif dan menyeluruh; memastikan ketersediaan jejak audit atas seluruh kegiatan penyelenggaraan TI untuk pengawasan, penegakan hukum, penyelesaian sengketa, verifikasi, pengujian, dan pemeriksaan lain; serta melaksanakan audit intern sesuai kebutuhan, prioritas, dan hasil analisis risiko paling sedikit 1 kali dalam 1 tahun.",
+        "internal_position": "Pasal 4 ayat (1) mewajibkan fungsi audit intern TI yang efektif dan menyeluruh sesuai kebutuhan, prioritas, dan hasil analisis risiko, paling sedikit 1 kali setahun. Ayat (3) mewajibkan ketersediaan audit trail atas seluruh kegiatan penyelenggaraan TI untuk tujuan yang sama.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "4",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "55",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "THRESHOLD_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "THRESHOLD_GAP",
+        "confidence": 0.96,
+        "reasoning": "Kewajiban eksternal mewajibkan Bank memiliki pedoman audit intern atas penyelenggaraan TI dan melakukan kaji ulang terhadap fungsi audit intern paling sedikit 1 kali dalam 3 tahun dengan menggunakan jasa pihak ekstern yang independen. Pasal internal memang mengatur pelaksanaan audit intern TI, tetapi tidak memuat kewajiban memiliki pedoman audit intern dan tidak mengatur kaji ulang fungsi audit intern oleh pihak ekstern independen. Selain itu, frekuensi yang diatur internal adalah audit minimal 1 kali per tahun, yang tidak menggantikan kewajiban kaji ulang 3 tahunan dengan pihak ekstern. Karena ada elemen kewajiban utama yang tidak tercakup, pasal internal tidak comply.",
+        "external_obligation": "Bank wajib memiliki pedoman audit intern atas penyelenggaraan TI dan wajib melakukan kaji ulang terhadap fungsi audit intern atas penyelenggaraan TI paling sedikit 1 (satu) kali dalam 3 (tiga) tahun dengan menggunakan jasa pihak ekstern yang independen.",
+        "internal_position": "Bank wajib melaksanakan fungsi audit intern Teknologi Informasi yang efektif dan menyeluruh oleh Satuan Kerja Audit Intern, paling sedikit 1 kali dalam 1 tahun, dengan ruang lingkup tertentu; laporan hasil audit disampaikan kepada Direksi dan Dewan Komisaris.",
+        "gap_summary": "Tidak ada ketentuan tentang kewajiban memiliki pedoman audit intern TI dan tidak ada kewajiban kaji ulang fungsi audit intern oleh pihak ekstern independen setiap 3 tahun.",
+        "recommended_action": "Tambahkan ketentuan eksplisit mengenai kewajiban memiliki pedoman audit intern atas penyelenggaraan TI serta kewajiban melakukan kaji ulang fungsi audit intern oleh pihak ekstern independen minimal 1 kali dalam 3 tahun."
+      }
+    },
+    {
+      "internal_pasal": "4",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "5",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.93,
+        "reasoning": "Pasal eksternal mewajibkan Direksi memiliki wewenang dan tanggung jawab tertentu terkait penyelenggaraan TI, yaitu menetapkan rencana strategis TI, menetapkan kebijakan/standar/prosedur, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI. Pasal internal yang diberikan justru mengatur audit TI, audit trail, dan pelaporan hasil audit, bukan kewenangan/tanggung jawab Direksi sebagaimana dimaksud. Karena kewajiban utama eksternal tidak tercakup dalam pasal internal, maka tidak comply.",
+        "external_obligation": "Direksi wajib memiliki wewenang dan tanggung jawab paling sedikit untuk menetapkan rencana strategis TI, menetapkan kebijakan/standar/prosedur TI, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI.",
+        "internal_position": "Pasal internal mengatur pelaksanaan audit TI oleh Satuan Kerja Audit Intern, ruang lingkup audit, kewajiban audit trail, dan penyampaian laporan hasil audit kepada Direksi dan Dewan Komisaris.",
+        "gap_summary": "Kewajiban eksternal tentang wewenang dan tanggung jawab Direksi tidak diatur dalam pasal internal; internal hanya mengatur audit TI dan pelaporannya.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit memuat wewenang dan tanggung jawab Direksi untuk menetapkan rencana strategis TI, kebijakan/standar/prosedur TI, serta melakukan evaluasi, pengarahan, dan pemantauan kegiatan TI."
+      }
+    },
+    {
+      "internal_pasal": "5",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "54",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "THRESHOLD_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "THRESHOLD_GAP",
+        "confidence": 0.98,
+        "reasoning": "Pasal eksternal mewajibkan audit intern terhadap penyelenggaraan TI dilakukan sesuai kebutuhan, prioritas, dan hasil analisis risiko, dengan frekuensi minimum paling sedikit 1 kali dalam 1 tahun. Pasal internal hanya mengatur audit teknologi informasi terhadap core banking paling sedikit 1 kali dalam 5 tahun. Ini lebih jarang dari ketentuan eksternal dan tidak mencakup kewajiban tahunan maupun penyesuaian berdasarkan kebutuhan/prioritas/analisis risiko.",
+        "external_obligation": "Bank wajib melaksanakan audit intern terhadap penyelenggaraan TI sesuai kebutuhan, prioritas, dan hasil analisis risiko atas penyelenggaraan TI, paling sedikit 1 (satu) kali dalam 1 (satu) tahun.",
+        "internal_position": "Audit Teknologi Informasi terhadap sistem inti perbankan (core banking) dilaksanakan oleh Satuan Kerja Audit Intern paling sedikit 1 (satu) kali dalam 5 (lima) tahun.",
+        "gap_summary": "Frekuensi audit internal jauh lebih rendah dari minimum tahunan yang diwajibkan; juga tidak memuat penyesuaian berdasarkan kebutuhan, prioritas, dan hasil analisis risiko.",
+        "recommended_action": "Ubah ketentuan internal agar mewajibkan audit intern TI minimal 1 kali per tahun dan selaras dengan kebutuhan, prioritas, serta hasil analisis risiko atas penyelenggaraan TI."
+      }
+    },
+    {
+      "internal_pasal": "5",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "55",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.97,
+        "reasoning": "Pasal eksternal mewajibkan dua hal: (1) bank memiliki pedoman audit intern atas penyelenggaraan TI, dan (2) melakukan kaji ulang fungsi audit intern atas penyelenggaraan TI paling sedikit 1 kali dalam 3 tahun dengan jasa pihak ekstern yang independen. Pasal internal hanya mengatur audit periodik TI terhadap core banking oleh Satuan Kerja Audit Intern paling sedikit 1 kali dalam 5 tahun. Kewajiban memiliki pedoman audit intern tidak diatur, dan kewajiban kaji ulang 3 tahunan dengan pihak ekstern independen juga tidak terpenuhi karena internal mengatur audit internal 5 tahunan, bukan kaji ulang eksternal independen.",
+        "external_obligation": "Bank wajib memiliki pedoman audit intern atas penyelenggaraan TI dan wajib melakukan kaji ulang terhadap fungsi audit intern atas penyelenggaraan TI paling sedikit 1 (satu) kali dalam 3 (tiga) tahun dengan menggunakan jasa pihak ekstern yang independen.",
+        "internal_position": "Audit Teknologi Informasi terhadap sistem inti perbankan (core banking) dilaksanakan oleh Satuan Kerja Audit Intern paling sedikit 1 (satu) kali dalam 5 (lima) tahun.",
+        "gap_summary": "Internal tidak memuat kewajiban memiliki pedoman audit intern dan tidak mengatur kaji ulang fungsi audit intern oleh pihak ekstern independen setiap 3 tahun; yang diatur hanya audit internal core banking setiap 5 tahun.",
+        "recommended_action": "Tambahkan ketentuan tentang pedoman audit intern atas penyelenggaraan TI dan kewajiban kaji ulang fungsi audit intern oleh pihak ekstern independen minimal setiap 3 tahun."
+      }
+    },
+    {
+      "internal_pasal": "5",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "4",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.97,
+        "reasoning": "Pasal eksternal mewajibkan bank menetapkan wewenang dan tanggung jawab yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan terkait penerapan tata kelola TI. Pasal internal hanya mengatur audit periodik TI terhadap core banking oleh Satuan Kerja Audit Intern minimal 1 kali dalam 5 tahun, sehingga tidak memuat pengaturan tentang penetapan wewenang dan tanggung jawab para organ/jabatan tersebut.",
+        "external_obligation": "Bank wajib menetapkan wewenang dan tanggung jawab yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan yang terkait dengan penerapan tata kelola TI.",
+        "internal_position": "Audit Teknologi Informasi terhadap sistem inti perbankan (core banking) dilaksanakan oleh Satuan Kerja Audit Intern paling sedikit 1 (satu) kali dalam 5 (lima) tahun.",
+        "gap_summary": "Kewajiban eksternal tentang penetapan wewenang dan tanggung jawab Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan tidak diatur dalam pasal internal.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit menetapkan wewenang dan tanggung jawab Direksi, Dewan Komisaris, dan pejabat pada setiap jenjang jabatan terkait penerapan tata kelola TI."
+      }
+    },
+    {
+      "internal_pasal": "6",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "60",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.97,
+        "reasoning": "Kewajiban utama pada pasal eksternal adalah ketika terjadi insiden TI yang berpotensi dan/atau telah mengakibatkan kerugian signifikan dan/atau mengganggu kelancaran operasional Bank, Bank wajib menyampaikan notifikasi awal paling lambat 24 jam setelah diketahui serta laporan insiden paling lambat 5 hari kerja setelah diketahui. Pasal internal memuat kewajiban yang sama: notifikasi awal kepada OJK paling lambat 1x24 jam sejak insiden diketahui dan laporan insiden TI paling lambat 5 hari kerja sejak insiden diketahui. Tidak ada pelemahan kewajiban atau pertentangan substantif; perbedaan redaksi masih sejalan dengan kewajiban eksternal.",
+        "external_obligation": "Dalam hal terjadi insiden TI yang berpotensi dan/atau telah mengakibatkan kerugian signifikan dan/atau mengganggu kelancaran operasional Bank, Bank wajib menyampaikan notifikasi awal paling lama 24 jam setelah diketahui dan laporan insiden TI paling lama 5 hari kerja setelah diketahui; notifikasi awal disampaikan secara tertulis melalui sarana elektronik kepada OJK berdasarkan informasi awal yang tersedia.",
+        "internal_position": "Bank wajib menyampaikan notifikasi awal kepada OJK paling lambat 1x24 jam sejak insiden diketahui; Bank wajib menyampaikan laporan insiden TI yang memuat analisis dampak, akar penyebab, dan rencana mitigasi paling lambat 5 hari kerja sejak insiden diketahui; serta menyelenggarakan dokumentasi seluruh insiden TI.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "6",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "59",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Kewajiban eksternal mewajibkan Bank melaporkan kondisi terkini penyelenggaraan TI paling lama 15 hari kerja setelah akhir tahun pelaporan, dengan isi laporan mencakup kondisi penyelenggaraan TI dan perubahan selama 1 tahun pelaporan. Pasal internal justru mengatur pelaporan insiden TI/insiden siber dalam 1x24 jam dan laporan insiden dalam 5 hari kerja, serta dokumentasi insiden. Ini tidak mencakup kewajiban pelaporan kondisi terkini penyelenggaraan TI tahunan yang diminta pasal eksternal.",
+        "external_obligation": "Bank wajib melaporkan kondisi terkini penyelenggaraan TI paling lama 15 hari kerja setelah akhir tahun pelaporan, termasuk perubahan yang telah dilakukan selama 1 tahun pelaporan.",
+        "internal_position": "Mengatur notifikasi awal dan laporan insiden TI kepada OJK dalam 1x24 jam dan 5 hari kerja, serta dokumentasi insiden TI.",
+        "gap_summary": "Tidak ada pengaturan mengenai laporan kondisi terkini penyelenggaraan TI tahunan setelah akhir tahun pelaporan beserta perubahan selama 1 tahun pelaporan.",
+        "recommended_action": "Tambahkan ketentuan khusus mengenai kewajiban menyampaikan laporan kondisi terkini penyelenggaraan TI kepada OJK paling lambat 15 hari kerja setelah akhir tahun pelaporan, termasuk isi laporan tentang kondisi TI dan perubahan selama periode pelaporan."
+      }
+    },
+    {
+      "internal_pasal": "6",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "21",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.93,
+        "reasoning": "Pasal eksternal mewajibkan Bank menjaga ketahanan siber, yang untuk pemenuhannya minimal mencakup identifikasi aset/ancaman/kerentanan, pelindungan aset, deteksi insiden siber, serta penanggulangan dan pemulihan insiden siber. Pasal internal hanya mengatur pelaporan notifikasi awal, laporan insiden, dan dokumentasi setelah insiden terjadi. Ketentuan internal tidak mencakup kewajiban proses menjaga ketahanan siber secara utuh, khususnya identifikasi, pelindungan, deteksi, penanggulangan, dan pemulihan sebagai proses yang diwajibkan eksternal.",
+        "external_obligation": "Bank wajib menjaga ketahanan siber dengan melakukan paling sedikit identifikasi aset, ancaman, dan kerentanan; pelindungan aset; deteksi insiden siber; serta penanggulangan dan pemulihan insiden siber.",
+        "internal_position": "Bank wajib menyampaikan notifikasi awal, laporan insiden berisi analisis dampak/akar penyebab/rencana mitigasi, dan menyelenggarakan dokumentasi seluruh insiden TI.",
+        "gap_summary": "Internal hanya mengatur pelaporan dan dokumentasi insiden, tidak mengatur kewajiban substantif menjaga ketahanan siber melalui identifikasi, pelindungan, deteksi, penanggulangan, dan pemulihan.",
+        "recommended_action": "Tambahkan ketentuan internal yang secara eksplisit mewajibkan proses menjaga ketahanan siber sesuai unsur minimum pada pasal eksternal, termasuk identifikasi, pelindungan, deteksi, penanggulangan, dan pemulihan insiden siber."
+      }
+    },
+    {
+      "internal_pasal": "7",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "13",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "THRESHOLD_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "THRESHOLD_GAP",
+        "confidence": 0.98,
+        "reasoning": "Kewajiban eksternal mewajibkan penyampaian rencana strategis TI kepada OJK paling lambat akhir bulan November tahun sebelum periode awal dimulai. Pasal internal mengatur kewajiban yang sama, tetapi batas waktunya lebih longgar, yaitu akhir bulan Desember. Karena tenggat waktu merupakan elemen kewajiban yang substantif, internal tidak memenuhi standar eksternal.",
+        "external_obligation": "Bank wajib menyampaikan rencana strategis TI kepada Otoritas Jasa Keuangan paling lambat pada akhir bulan November tahun sebelum periode awal rencana strategis TI dimulai.",
+        "internal_position": "Bank wajib menyampaikan rencana strategis Teknologi Informasi kepada Otoritas Jasa Keuangan paling lambat pada akhir bulan Desember tahun sebelum periode awal rencana strategis Teknologi Informasi dimulai.",
+        "gap_summary": "Tenggat penyampaian lebih lambat satu bulan dibanding ketentuan eksternal (Desember vs November).",
+        "recommended_action": "Ubah ketentuan internal agar tenggat penyampaian menjadi paling lambat akhir bulan November tahun sebelum periode awal rencana strategis TI dimulai."
+      }
+    },
+    {
+      "internal_pasal": "7",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "12",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.93,
+        "reasoning": "Pasal eksternal mewajibkan Bank memiliki rencana strategis TI yang mendukung rencana korporasi Bank dan disusun untuk penyelenggaraan TI jangka panjang sesuai periode rencana korporasi. Pasal internal hanya mengatur kewajiban penyampaian rencana strategis TI kepada OJK paling lambat akhir Desember sebelum periode mulai, tetapi tidak memuat kewajiban substansial untuk memiliki/menyusun rencana strategis TI yang mendukung rencana korporasi dan sesuai periode jangka panjang. Karena hanya aspek penyampaian yang diatur, kewajiban utama eksternal belum sepenuhnya tercakup.",
+        "external_obligation": "Bank wajib memiliki rencana strategis TI yang mendukung rencana korporasi Bank dan disusun untuk penyelenggaraan TI dalam jangka panjang sesuai periode rencana korporasi Bank.",
+        "internal_position": "Bank wajib menyampaikan rencana strategis Teknologi Informasi kepada Otoritas Jasa Keuangan paling lambat pada akhir bulan Desember tahun sebelum periode awal rencana strategis Teknologi Informasi dimulai.",
+        "gap_summary": "Internal hanya mengatur tenggat penyampaian dokumen, tidak mengatur kewajiban memiliki/menyusun rencana strategis TI yang mendukung rencana korporasi dan sesuai periode jangka panjang.",
+        "recommended_action": "Tambahkan ketentuan bahwa Bank wajib memiliki dan menyusun rencana strategis TI yang mendukung rencana korporasi Bank serta berlaku untuk jangka panjang sesuai periode rencana korporasi, selain kewajiban penyampaiannya kepada OJK."
+      }
+    },
+    {
+      "internal_pasal": "7",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "5",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.95,
+        "reasoning": "Pasal eksternal mewajibkan Direksi memiliki wewenang dan tanggung jawab yang paling sedikit mencakup tiga hal: menetapkan rencana strategis TI, menetapkan kebijakan/standar/prosedur TI, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI. Pasal internal hanya mengatur kewajiban Bank untuk menyampaikan rencana strategis TI kepada OJK pada waktu tertentu, tanpa memuat seluruh cakupan kewajiban Direksi tersebut. Karena hanya sebagian kecil dari kewajiban eksternal yang tercermin dan substansi utama lainnya tidak diatur, maka tidak comply.",
+        "external_obligation": "Direksi wajib memiliki wewenang dan tanggung jawab yang paling sedikit mencakup menetapkan rencana strategis TI, menetapkan kebijakan/standar/prosedur TI, serta mengevaluasi tujuan strategis, mengarahkan pejabat eksekutif, dan memantau seluruh kegiatan penyelenggaraan TI.",
+        "internal_position": "Bank wajib menyampaikan rencana strategis Teknologi Informasi kepada Otoritas Jasa Keuangan paling lambat pada akhir bulan Desember tahun sebelum periode awal rencana strategis Teknologi Informasi dimulai.",
+        "gap_summary": "Internal hanya mengatur penyampaian rencana strategis TI ke OJK, tidak mencakup kewenangan/tanggung jawab Direksi untuk menetapkan kebijakan, standar, prosedur, evaluasi tujuan strategis, pengarahan pejabat eksekutif, dan pemantauan kegiatan TI.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit memuat seluruh wewenang dan tanggung jawab Direksi sebagaimana diwajibkan oleh pasal eksternal, tidak hanya kewajiban penyampaian rencana strategis TI."
+      }
+    },
+    {
+      "internal_pasal": "8",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "44",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.99,
+        "reasoning": "Kewajiban utama pada pasal eksternal adalah Bank wajib melaksanakan prinsip pelindungan data pribadi dalam pemrosesan data pribadi, serta melakukan penilaian dampak jika ada kondisi tertentu yang meningkatkan risiko. Pasal internal memuat kewajiban yang sama, dengan substansi, subjek, tindakan, dan kondisi yang selaras. Penambahan frasa 'Data Pribadi Nasabah' tidak melemahkan kewajiban dan masih berada dalam cakupan pemrosesan data pribadi.",
+        "external_obligation": "Bank wajib melaksanakan prinsip pelindungan data pribadi dalam melakukan pemrosesan data pribadi; dan dalam kondisi tertentu yang berpotensi meningkatkan risiko bagi pemilik data pribadi, wajib melakukan penilaian dampak atas penerapan prinsip tersebut.",
+        "internal_position": "Bank wajib melaksanakan prinsip pelindungan data pribadi dalam melakukan pemrosesan Data Pribadi Nasabah sesuai ketentuan peraturan perundang-undangan; dan dalam kondisi tertentu yang berpotensi meningkatkan risiko bagi pemilik data pribadi, wajib melakukan penilaian dampak atas penerapan prinsip tersebut.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "8",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "15",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.91,
+        "reasoning": "Pasal eksternal mewajibkan pembukaan akses data dan informasi nasabah/calon nasabah kepada mitra Bank hanya berdasarkan persetujuan, untuk kepentingan nasabah/calon nasabah, dan dengan memperhatikan ketentuan peraturan perundang-undangan mengenai pelindungan data pribadi. Pasal internal memuat kewajiban Bank untuk melaksanakan prinsip pelindungan data pribadi dalam pemrosesan Data Pribadi Nasabah sesuai ketentuan peraturan perundang-undangan, serta mewajibkan penilaian dampak pada kondisi tertentu yang meningkatkan risiko. Ini mencakup kewajiban inti untuk tunduk pada rezim pelindungan data pribadi saat memproses/membuka akses data, tanpa pertentangan atau pelemahan.",
+        "external_obligation": "Bank dapat membuka akses data dan informasi nasabah dan/atau calon nasabah kepada mitra Bank berdasarkan persetujuan dan untuk kepentingan nasabah dan/atau calon nasabah melalui suatu sistem atau aplikasi, dengan memperhatikan ketentuan peraturan perundang-undangan mengenai pelindungan data pribadi.",
+        "internal_position": "Bank wajib melaksanakan prinsip pelindungan data pribadi dalam melakukan pemrosesan Data Pribadi Nasabah, sesuai dengan ketentuan peraturan perundang-undangan mengenai pelindungan data pribadi; dan dalam kondisi tertentu yang berpotensi meningkatkan risiko, Bank wajib melakukan penilaian dampak.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "8",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "17",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Pasal eksternal mewajibkan Bank memastikan jaringan komunikasi yang disediakan memenuhi prinsip kerahasiaan, integritas, dan ketersediaan. Pasal internal hanya mengatur penerapan prinsip pelindungan data pribadi dalam pemrosesan Data Pribadi Nasabah dan penilaian dampak pada kondisi tertentu, tanpa mengatur kewajiban spesifik terkait jaringan komunikasi maupun tiga prinsip CIA tersebut. Karena kewajiban utama eksternal tidak tercakup, maka tidak comply.",
+        "external_obligation": "Bank wajib memastikan jaringan komunikasi yang disediakan oleh Bank telah memenuhi prinsip kerahasiaan, integritas, dan ketersediaan.",
+        "internal_position": "Bank wajib melaksanakan prinsip pelindungan data pribadi dalam melakukan pemrosesan Data Pribadi Nasabah, serta melakukan penilaian dampak pada kondisi tertentu yang berpotensi meningkatkan risiko bagi pemilik data pribadi.",
+        "gap_summary": "Internal tidak memuat kewajiban memastikan jaringan komunikasi memenuhi prinsip kerahasiaan, integritas, dan ketersediaan.",
+        "recommended_action": "Tambahkan ketentuan eksplisit bahwa Bank wajib memastikan jaringan komunikasi yang disediakan memenuhi prinsip kerahasiaan, integritas, dan ketersediaan."
+      }
+    },
+    {
+      "internal_pasal": "9",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "15",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "WEAKENED_OBLIGATION",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "WEAKENED_OBLIGATION",
+        "confidence": 0.98,
+        "reasoning": "Pasal eksternal mensyaratkan pembukaan akses data dan informasi nasabah kepada mitra Bank dilakukan berdasarkan persetujuan serta untuk kepentingan nasabah/calon nasabah, dan tetap memperhatikan ketentuan pelindungan data pribadi. Pasal internal memang mengatur pembukaan akses data pribadi nasabah kepada mitra Bank dalam penyelenggaraan layanan digital, tetapi secara tegas menghapus syarat persetujuan nasabah. Penghapusan persetujuan ini melemahkan kewajiban eksternal secara substantif, sehingga tidak comply.",
+        "external_obligation": "Bank dapat membuka akses data dan informasi nasabah dan/atau calon nasabah kepada mitra Bank berdasarkan persetujuan dan untuk kepentingan nasabah dan/atau calon nasabah melalui suatu sistem atau aplikasi, dengan memperhatikan ketentuan peraturan perundang-undangan mengenai pelindungan data pribadi.",
+        "internal_position": "Bank dapat membuka akses Data Pribadi Nasabah kepada mitra Bank dalam rangka penyelenggaraan Layanan Digital tanpa memerlukan persetujuan dari nasabah yang bersangkutan, sepanjang mitra Bank tersebut telah memiliki perjanjian kerja sama tertulis dengan Bank.",
+        "gap_summary": "Kewajiban eksternal mensyaratkan pembukaan akses dilakukan berdasarkan persetujuan dan untuk kepentingan nasabah/calon nasabah, sedangkan internal membolehkan tanpa persetujuan nasabah. Selain itu, internal tidak memuat syarat eksplisit bahwa pembukaan akses harus untuk kepentingan nasabah/calon nasabah.",
+        "recommended_action": "Ubah ketentuan internal agar pembukaan akses data hanya dilakukan berdasarkan persetujuan nasabah/calon nasabah, untuk kepentingan nasabah/calon nasabah, serta tetap tunduk pada ketentuan pelindungan data pribadi."
+      }
+    },
+    {
+      "internal_pasal": "9",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "44",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Pasal eksternal mewajibkan Bank melaksanakan prinsip pelindungan data pribadi dalam setiap pemrosesan data pribadi. Pasal internal justru mengatur pembukaan akses Data Pribadi Nasabah kepada mitra Bank untuk layanan digital tanpa persetujuan nasabah, hanya dengan syarat adanya perjanjian kerja sama tertulis. Ketentuan internal tidak memuat kewajiban penerapan prinsip pelindungan data pribadi, dan bahkan membuka akses tanpa persetujuan sebagai dasar umum, sehingga kewajiban eksternal tidak tercakup secara memadai.",
+        "external_obligation": "Bank wajib melaksanakan prinsip pelindungan data pribadi dalam melakukan pemrosesan data pribadi.",
+        "internal_position": "Bank dapat membuka akses Data Pribadi Nasabah kepada mitra Bank dalam rangka penyelenggaraan Layanan Digital tanpa memerlukan persetujuan dari nasabah yang bersangkutan, sepanjang mitra Bank tersebut telah memiliki perjanjian kerja sama tertulis dengan Bank.",
+        "gap_summary": "Internal hanya mengatur izin pembukaan akses data kepada mitra berdasarkan perjanjian kerja sama, tetapi tidak mengatur kewajiban pelaksanaan prinsip pelindungan data pribadi saat pemrosesan data pribadi.",
+        "recommended_action": "Tambahkan ketentuan eksplisit bahwa setiap pembukaan akses/pemrosesan data pribadi wajib mengikuti prinsip pelindungan data pribadi, termasuk pembatasan tujuan, keamanan, dan dasar pemrosesan yang sah."
+      }
+    },
+    {
+      "internal_pasal": "9",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "16",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Pasal eksternal mewajibkan Bank memiliki kebijakan dan prosedur penentuan mitra Bank, serta perjanjian kerja sama tertulis dengan mitra Bank yang disusun dalam Bahasa Indonesia. Selain itu, kebijakan/prosedur tersebut harus memuat unsur minimum tertentu, termasuk uji tuntas, pemilihan, tata cara hubungan kerja sama, manajemen risiko, perlindungan data nasabah dalam pertukaran data, dan penghentian kerja sama. Pasal internal hanya mengatur bahwa Bank dapat membuka akses Data Pribadi Nasabah kepada mitra Bank tanpa persetujuan nasabah sepanjang ada perjanjian kerja sama tertulis. Ketentuan ini tidak mencakup kewajiban memiliki kebijakan dan prosedur penentuan mitra, tidak mensyaratkan Bahasa Indonesia, dan tidak memuat unsur-unsur minimum yang diwajibkan.",
+        "external_obligation": "Bank wajib memiliki kebijakan dan prosedur penentuan mitra Bank, serta perjanjian kerja sama tertulis dengan mitra Bank dalam Bahasa Indonesia; kebijakan/prosedur harus memuat kriteria mitra, uji tuntas, pemilihan, tata cara hubungan kerja sama, manajemen risiko termasuk perlindungan data nasabah, dan penghentian kerja sama.",
+        "internal_position": "Bank dapat membuka akses Data Pribadi Nasabah kepada mitra Bank untuk Layanan Digital tanpa persetujuan nasabah sepanjang ada perjanjian kerja sama tertulis dengan Bank.",
+        "gap_summary": "Tidak ada pengaturan mengenai kebijakan dan prosedur penentuan mitra Bank, tidak ada syarat perjanjian kerja sama dalam Bahasa Indonesia, dan tidak ada unsur minimum kebijakan/prosedur yang diwajibkan oleh pasal eksternal.",
+        "recommended_action": "Tambahkan ketentuan yang mewajibkan kebijakan dan prosedur penentuan mitra Bank, perjanjian kerja sama tertulis dalam Bahasa Indonesia, serta seluruh unsur minimum yang dipersyaratkan dalam POJK."
+      }
+    },
+    {
+      "internal_pasal": "10",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "9",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.98,
+        "reasoning": "Kewajiban eksternal mewajibkan bank menerapkan paling sedikit 2 faktor autentikasi untuk verifikasi transaksi keuangan, dengan opsi penerapan per transaksi atau dengan pembatasan tertentu berdasarkan analisis risiko dan persetujuan nasabah. Pasal internal memuat kewajiban yang sama, bahkan lebih spesifik dengan contoh faktor autentikasi (password + OTP/biometrik/token) dan mengatur opsi penerapan yang identik. Tidak ada pelemahan atau pertentangan terhadap kewajiban eksternal.",
+        "external_obligation": "Bank wajib menerapkan paling sedikit 2 faktor autentikasi untuk verifikasi transaksi keuangan; penerapannya dapat per transaksi atau dengan pembatasan tertentu sesuai analisis risiko dan persetujuan nasabah.",
+        "internal_position": "Bank wajib menerapkan paling sedikit 2 faktor otentikasi untuk verifikasi transaksi keuangan pada Layanan Digital; penerapan dapat dilakukan per transaksi atau dengan pembatasan tertentu sesuai analisis risiko dan persetujuan nasabah.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "10",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "5",
+      "predicted_verdict": "COMPLY",
+      "predicted_reason_code": "FULL_ALIGNMENT",
+      "output": {
+        "status": "COMPLY",
+        "reason_code": "FULL_ALIGNMENT",
+        "confidence": 0.95,
+        "reasoning": "Kewajiban utama pada pasal eksternal adalah bahwa Bank wajib menerapkan paling sedikit 2 faktor autentikasi (two factor authentication) dalam verifikasi pada Layanan Digital. Pasal internal secara tegas mewajibkan Bank menerapkan paling sedikit 2 faktor otentikasi untuk verifikasi transaksi keuangan pada Layanan Digital, sehingga inti kewajibannya terpenuhi. Perbedaan bahwa internal merinci bentuk faktor (password + OTP/biometrik/token) dan konteks transaksi keuangan tidak mengurangi pemenuhan kewajiban minimum 2 faktor autentikasi.",
+        "external_obligation": "Bank wajib menerapkan paling sedikit 2 (dua) faktor autentikasi (two factor authentication) dalam verifikasi pada Layanan Digital.",
+        "internal_position": "Bank wajib menerapkan paling sedikit 2 (dua) faktor otentikasi untuk verifikasi transaksi keuangan pada Layanan Digital, dengan kombinasi password dan salah satu faktor tambahan.",
+        "gap_summary": "",
+        "recommended_action": ""
+      }
+    },
+    {
+      "internal_pasal": "10",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "8",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.96,
+        "reasoning": "Pasal eksternal mewajibkan bank memastikan kesesuaian data dan/atau informasi yang digunakan dalam penyelenggaraan Layanan Digital dengan sumber data dan/atau informasi. Pasal internal justru mengatur otentikasi dua faktor untuk verifikasi transaksi keuangan pada Layanan Digital. Kewajiban internal tidak mencakup kewajiban memastikan kesesuaian data/informasi dengan sumbernya, sehingga core obligation eksternal tidak terpenuhi.",
+        "external_obligation": "Bank wajib memastikan kesesuaian atas data dan/atau informasi yang dimanfaatkan dalam penyelenggaraan Layanan Digital dengan sumber data dan/atau informasi.",
+        "internal_position": "Mengatur penerapan paling sedikit 2 faktor otentikasi untuk verifikasi transaksi keuangan pada Layanan Digital, termasuk opsi OTP, biometrik, atau hardware token.",
+        "gap_summary": "Kewajiban memastikan kesesuaian data/informasi dengan sumber data tidak diatur dalam pasal internal; internal hanya mengatur autentikasi transaksi.",
+        "recommended_action": "Tambahkan ketentuan eksplisit bahwa bank wajib memastikan data dan/atau informasi yang digunakan dalam Layanan Digital sesuai dengan sumber data dan/atau informasi yang sah."
+      }
+    },
+    {
+      "internal_pasal": "11",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "9",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "WEAKENED_OBLIGATION",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "WEAKENED_OBLIGATION",
+        "confidence": 0.98,
+        "reasoning": "Kewajiban eksternal mewajibkan bank menerapkan paling sedikit 2 faktor autentikasi untuk verifikasi transaksi keuangan. Pasal internal hanya menyebut akses awal pengguna dilakukan dengan kombinasi username dan password, yang pada praktiknya masih merupakan satu skema login berbasis kredensial dan tidak secara tegas menetapkan 2 faktor autentikasi untuk verifikasi transaksi keuangan. Karena kewajiban inti eksternal tidak dipenuhi dan bahkan dilemahkan menjadi mekanisme akses awal yang lebih rendah tingkat pengamanannya, maka tidak comply.",
+        "external_obligation": "Bank wajib menerapkan paling sedikit 2 (dua) faktor autentikasi (two factor authentication) untuk verifikasi transaksi keuangan.",
+        "internal_position": "Akses awal pengguna terhadap Layanan Digital dilakukan dengan menggunakan kombinasi username dan password.",
+        "gap_summary": "Internal hanya mengatur login awal dengan username dan password, bukan penerapan minimal 2 faktor autentikasi untuk verifikasi transaksi keuangan.",
+        "recommended_action": "Ubah ketentuan internal agar secara tegas mewajibkan minimal 2 faktor autentikasi untuk verifikasi transaksi keuangan, sesuai ketentuan eksternal."
+      }
+    },
+    {
+      "internal_pasal": "11",
+      "external_regulation_id": "POJK_21_2023",
+      "external_pasal": "5",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "WEAKENED_OBLIGATION",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "WEAKENED_OBLIGATION",
+        "confidence": 0.98,
+        "reasoning": "Kewajiban eksternal mewajibkan Bank menerapkan paling sedikit 2 faktor autentikasi, dan dalam kondisi tertentu salah satunya harus berupa faktor ciri khas anda (something you are). Pasal internal hanya menyebut akses awal dilakukan dengan kombinasi username dan password, yang pada dasarnya masih satu skema kredensial pengetahuan dan tidak menunjukkan penerapan 2 faktor autentikasi maupun faktor something you are. Karena kewajiban autentikasi diperlemah dan tidak dipenuhi secara substantif, maka tidak comply.",
+        "external_obligation": "Bank wajib menerapkan paling sedikit 2 (dua) faktor autentikasi; dalam kondisi tertentu wajib menggunakan faktor ciri khas anda (something you are) sebagai salah satu faktor.",
+        "internal_position": "Akses awal pengguna terhadap Layanan Digital dilakukan dengan menggunakan kombinasi username dan password.",
+        "gap_summary": "Internal hanya mengatur username dan password tanpa kewajiban dua faktor autentikasi dan tanpa faktor something you are.",
+        "recommended_action": "Ubah ketentuan internal agar mewajibkan minimal dua faktor autentikasi dan, untuk skenario yang dipersyaratkan, memasukkan faktor ciri khas anda sebagai salah satu faktor."
+      }
+    },
+    {
+      "internal_pasal": "11",
+      "external_regulation_id": "POJK_11_2022",
+      "external_pasal": "17",
+      "predicted_verdict": "NON_COMPLY",
+      "predicted_reason_code": "COVERAGE_GAP",
+      "output": {
+        "status": "NON_COMPLY",
+        "reason_code": "COVERAGE_GAP",
+        "confidence": 0.98,
+        "reasoning": "Kewajiban eksternal mewajibkan Bank memastikan jaringan komunikasi yang disediakan memenuhi prinsip kerahasiaan, integritas, dan ketersediaan. Pasal internal hanya mengatur mekanisme akses awal pengguna ke layanan digital באמצעות username dan password, tanpa mengatur jaringan komunikasi maupun tiga prinsip keamanan tersebut. Karena kewajiban utama eksternal tidak tercakup, maka tidak comply.",
+        "external_obligation": "Bank wajib memastikan jaringan komunikasi yang disediakan oleh Bank telah memenuhi prinsip kerahasiaan, integritas, dan ketersediaan.",
+        "internal_position": "Akses awal pengguna terhadap Layanan Digital dilakukan dengan menggunakan kombinasi username dan password.",
+        "gap_summary": "Internal tidak mengatur kewajiban memastikan jaringan komunikasi memenuhi prinsip kerahasiaan, integritas, dan ketersediaan.",
+        "recommended_action": "Tambahkan ketentuan yang secara eksplisit mewajibkan Bank memastikan jaringan komunikasi memenuhi prinsip kerahasiaan, integritas, dan ketersediaan."
+      }
+    }
+  ]
+}

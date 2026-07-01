@@ -1,0 +1,234 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "KETENTUAN UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "1",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Peraturan ini mengatur prinsip, struktur organisasi, tanggung jawab, dan prosedur\noperasional terkait: tata kelola, teknologi informasi, ketahanan dan keamanan siber, layanan\ndigital, penilaian maturitas digital, penyertaan modal, fasilitas PLJP, manajemen risiko\nterintegrasi (RIM/PLM), dan pemenuhan GWM.\n(2) Peraturan ini berlaku bagi seluruh kantor pusat, kantor wilayah, unit bisnis, dan anak\nperusahaan konsolidasi yang relevan dalam hal pelaksanaan kebijakan yang terkait."
+        },
+        {
+          "article_number": "2",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam Peraturan ini:\na. “Dewan Direksi” adalah Direksi Bank Nusantara Sentral;\nb. “Unit TI” adalah unit yang bertanggung jawab atas pengelolaan infrastruktur dan layanan TI;\nc. “PLJP” adalah Pinjaman Likuiditas Jangka Pendek;\nd. istilah lain yang digunakan mempunyai arti sebagaimana ditetapkan dalam peraturan\nperundang-undangan dan peraturan internal bank."
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "title": "TATA KELOLA, PERAN, DAN TANGGUNG JAWAB",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "3",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank menerapkan prinsip tata kelola yang meliputi transparansi, akuntabilitas, tanggung\njawab, independensi, dan kewajaran.\n(2) Dewan Komisaris dan Direksi wajib memastikan penerapan tata kelola terpadu yang\nmendukung manajemen risiko, kepatuhan, dan pelaporan internal sesuai kerangka\npengendalian internal bank."
+        },
+        {
+          "article_number": "4",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Direksi menetapkan fungsi independen: Manajemen Risiko, Kepatuhan, Audit Internal, dan\nKeamanan Informasi.\n(2) Pelaporan insiden material, pelanggaran kepatuhan, atau kegagalan kontrol disampaikan ke\nDewan Komisaris selambat-lambatnya 5 hari kerja sejak penemuan."
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "title": "TEKNOLOGI INFORMASI & MATURITAS DIGITAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "5",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank wajib memiliki pedoman tertulis atas arsitektur TI, pengelolaan data, pemulihan\nbencana (DR/BCP), dan siklus hidup aplikasi.\n(2) Setiap proyek TI baru harus melalui proses Gate Review oleh Unit TI, Manajemen Risiko,\ndan Kepatuhan."
+        },
+        {
+          "article_number": "6",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank melaksanakan penilaian maturitas digital minimal setiap tahun, meliputi tata kelola TI,\narsitektur, manajemen risiko TI, dan ketahanan siber.\n(2) Hasil penilaian wajib diintegrasikan ke dalam Rencana Aksi Perbaikan (Remediation Plan)\ndengan tenggat waktu dan penanggung jawab yang jelas."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "title": "KETAHANAN DAN KEAMANAN SIBER",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "7",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank menerapkan kerangka pengelolaan ketahanan siber yang meliputi pengendalian\nakses, enkripsi, pemantauan anomali, incident response, dan eskalasi insiden.\n(2) Uji penetrasi (penetration test) dan latihan respons insiden (tabletop exercise) dilaksanakan\nminimal 1 kali setiap 12 bulan. Untuk kategori risiko tinggi, frekuensi ditingkatkan sesuai hasil\npenilaian."
+        },
+        {
+          "article_number": "8",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Semua insiden siber yang dapat berdampak material harus dilaporkan ke manajemen senior\ndan dicatat dalam register insiden.\n(2) Insiden material akan dievaluasi untuk pelaporan eksternal kepada regulator sesuai\nketentuan yang berlaku."
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+      "title": "LAYANAN DIGITAL & KERJASAMA PIHAK KETIGA",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "9",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank mengembangkan dan/atau menyediakan layanan digital berdasarkan persyaratan\nkeamanan, privasi data, dan perlindungan nasabah.\n(2) Layanan informasi publik dan komunikasi yang tidak melibatkan akses rekening atau\ntransaksi diklasifikasikan secara terpisah dari produk perbankan berbayar."
+        },
+        {
+          "article_number": "10",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Kemitraan strategis dengan pihak ketiga untuk layanan digital harus melalui proses due\ndiligence reputasi, keamanan, dan kepatuhan.\n(2) Kontrak outsourcing harus memuat klausul SLA, pengamanan data, audit hak akses, serta\nklausul pemutusan yang jelas."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VI",
+      "title": "PENYERTAAN MODAL",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "11",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Penyertaan modal oleh Bank hanya dilakukan berdasarkan analisis bisnis, manajemen\nrisiko, dan persetujuan Direksi serta Dewan Komisaris sesuai batas internal.\n(2) Penyertaan modal sementara (bridge financing) hanya dapat dilakukan untuk alasan\nstrategis dengan mitigasi risiko yang terukur."
+        },
+        {
+          "article_number": "12",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank menetapkan limit konsentrasi untuk penyertaan modal terhadap entitas terkait dan\nsektor tertentu.\n(2) Setiap penyertaan modal > X% (nilai ditetapkan terpisah dalam Kep. Direksi Keuangan) dari\nmodal inti memerlukan persetujuan persyaratan tambahan dan kajian khusus."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VII",
+      "title": "MANAJEMEN RISIKO TERINTEGRASI (RIM/PLM)",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "13",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank menerapkan kerangka manajemen risiko terintegrasi yang mencakup identifikasi,\npenilaian, pemantauan, dan pengendalian risiko kredit, pasar, operasional, likuiditas, dan TI.\n(2) Unit Manajemen Risiko wajib menyusun Pedoman PLM (Pengelolaan Likuiditas &\nManajemen Pembiayaan) yang mencakup perencanaan likuiditas jangka pendek dan\nkontinjensi."
+        },
+        {
+          "article_number": "14",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Tes tekanan likuiditas (Liquidity Stress Test) dilaksanakan minimal triwulanan.\n(2) Hasil stres test harus menghasilkan rencana mitigasi, termasuk scenario pengajuan PLJP\nbila diperlukan."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VIII",
+      "title": "PLJP (PINJAMAN LIKUIDITAS JANGKA PENDEK)",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "15",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank dapat mengakses fasilitas likuiditas internal/eksternal sesuai kebutuhan yang\ndipersyaratkan oleh manajemen likuiditas; penggunaan PLJP harus melalui persetujuan Kepala\nUnit Keuangan dan Direktur Keuangan.\n(2) Syarat dan dokumentasi PLJP serta mekanisme pembayaran kembali harus terdokumentasi\ndalam database fasilitas likuiditas."
+        },
+        {
+          "article_number": "16",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Penggunaan PLJP yang berdampak signifikan terhadap posisi likuiditas harus dilaporkan\nkepada Direksi dan dicatat dalam Laporan Likuiditas Konsolidasi."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IX",
+      "title": "GIRO WAJIB MINIMUM (GWM) DAN KEBIJAKAN LIKUIDITAS LAIN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "17",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank wajib mematuhi ketentuan GWM yang ditetapkan oleh Bank Indonesia dan\nmenetapkan limit internal yang memastikan pemenuhan GWM setiap hari kerja.\n(2) Unit Treasury bertanggung jawab untuk monitoring harian dan pelaporan deviasi GWM."
+        },
+        {
+          "article_number": "18",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Bank memelihara portofolio aset likuid yang memenuhi syarat untuk memenuhi kebutuhan\nlikuiditas jangka pendek dan pemenuhan GWM."
+        }
+      ]
+    },
+    {
+      "chapter_number": "X",
+      "title": "PENGAWASAN, SANKSI, DAN ESKALASI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "19",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Audit Internal melakukan review kepatuhan terhadap peraturan ini sekurang-kurangnya\ntahunan.\n(2) Temuan audit harus mendapatkan rencana tindak lanjut dan termin monitoring."
+        },
+        {
+          "article_number": "20",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Pelanggaran terhadap ketentuan Peraturan ini dikenai sanksi administratif, mulai dari\nperingatan hingga pemecatan sesuai tingkat pelanggaran dan ketentuan ketenagakerjaan.\n(2) Untuk penyimpangan yang berpotensi melanggar ketentuan regulator, kasus akan\nditeruskan ke fungsi Kepatuhan untuk evaluasi pelaporan eksternal."
+        }
+      ]
+    },
+    {
+      "chapter_number": "XI",
+      "title": "KETENTUAN PEMERINTAHAN KHUSUS (RULES OF EXCEPTION)",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "21",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Pengecualian atas ketentuan substansial dalam Peraturan ini hanya dapat diberikan oleh\nDireksi setelah mendapat rekomendasi tertulis dari Unit Manajemen Risiko dan Kepatuhan.\n(2) Setiap pengecualian harus berisi alasan, mitigasi risiko, jangka waktu, dan persetujuan\ntertulis."
+        }
+      ]
+    },
+    {
+      "chapter_number": "XII",
+      "title": "KETENTUAN PENUTUP",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "22",
+          "section_number": null,
+          "section_title": null,
+          "content": "(1) Peraturan ini dievaluasi setidaknya setiap 12 bulan atau sewaktu-waktu bila ada perubahan\nperaturan eksternal atau kondisi material industri.\n(2) Revisi Peraturan ini harus mendapat persetujuan Direksi."
+        },
+        {
+          "article_number": "23",
+          "section_number": null,
+          "section_title": null,
+          "content": "Peraturan ini berlaku sejak tanggal ditetapkan dan menjadi pedoman wajib bagi seluruh unit\nkerja Bank Nusantara Sentral.\nDitetapkan di Jakarta\nPada tanggal: 11 Februari 2026\nDireksi,\n(tanda tangan)\nNama: Drs. Arief H. Prasetyo\nJabatan: Direktur Utama"
+        }
+      ]
+    }
+  ],
+  "chapter_count": 12,
+  "section_count": 0,
+  "article_count": 23,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\internal\\[Dummy] KEP-DIR_012_2026.md"
+}

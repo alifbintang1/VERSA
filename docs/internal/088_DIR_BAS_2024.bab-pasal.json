@@ -1,0 +1,93 @@
+{
+  "chapters": [
+    {
+      "number": "I",
+      "title": "Ketentuan Umum",
+      "articles": [
+        {
+          "number": "1",
+          "content": "Dalam Keputusan Direksi ini, yang dimaksud dengan:\n1. Bank adalah PT Bank Artha Sentosa Tbk.\n2. Giro Wajib Minimum (GWM) adalah jumlah dana minimum yang wajib dipelihara\noleh Bank dalam bentuk saldo Rekening Giro pada Bank Indonesia.\n3. Dana Pihak Ketiga (DPK) adalah kewajiban Bank kepada penduduk dan bukan\npenduduk dalam mata uang Rupiah dan Valuta Asing.\n4. Rasio Intermediasi Makroprudensial (RIM) adalah rasio yang mengukur fungsi\nintermediasi Bank dengan membandingkan kredit dan surat berharga korporasi\nterhadap total DPK dan surat berharga yang diterbitkan.\n5. Penyangga Likuiditas Makroprudensial (PLM) adalah cadangan likuiditas\nminimum dalam mata uang Rupiah yang wajib dipelihara oleh Bank dalam\nbentuk surat berharga tertentu.\n6. Pinjaman Likuiditas Jangka Pendek (PLJP) adalah pinjaman dari Bank Indonesia\nuntuk mengatasi Kesulitan Likuiditas jangka pendek."
+        },
+        {
+          "number": "2",
+          "content": "1. Bank wajib menerapkan prinsip kehati-hatian dalam setiap aktivitas pengelolaan\ndana.\n2. Seluruh unit kerja wajib melakukan koordinasi dengan Satuan Kerja Manajemen\nRisiko dan Divisi Treasury guna memastikan posisi likuiditas berada dalam batas\naman.\n3. Bank wajib memiliki mekanisme Contingency Funding Plan (CFP) yang diuji\nsecara berkala."
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "Giro Wajib Minimum (GWM)",
+      "articles": [
+        {
+          "number": "3",
+          "content": "1. Bank wajib memenuhi GWM Rupiah yang terdiri dari GWM harian dan GWM\nrata-rata dalam setiap Masa Pemeliharaan.\n2. Besaran GWM Rupiah ditetapkan sebesar 3,5% (tiga koma lima persen) dari\nrata-rata harian jumlah DPK Bank dalam mata uang Rupiah pada 2 (dua) Masa\nLaporan sebelumnya.\n3. Pemenuhan GWM Rupiah harian dilakukan dengan menjaga saldo Rekening\nGiro Rupiah di Bank Indonesia paling sedikit sebesar 0,5% (nol koma lima\npersen) dari DPK Rupiah pada setiap hari kerja.\n4. Komponen saldo Rekening Giro Rupiah mencakup saldo pada sistem BI-RTGS\ndan dana pada sistem BI-FAST."
+        },
+        {
+          "number": "4",
+          "content": "1. Bank menetapkan kewajiban pemeliharaan GWM Valuta Asing sebesar 0,75%\n(nol koma tujuh puluh lima persen) dari DPK dalam Valuta Asing.\n2. Pemenuhan GWM Valuta Asing dilakukan secara harian pada setiap hari kerja."
+        },
+        {
+          "number": "5",
+          "content": "1. Bank berhak menerima remunerasi dari Bank Indonesia atas pemenuhan\nkewajiban GWM Rupiah sesuai dengan ketentuan yang berlaku.\n2. Bank melakukan langkah strategis untuk mendapatkan insentif pelonggaran\nGWM Rupiah paling banyak sebesar 1% (satu persen) melalui penyaluran kredit\nkepada sektor prioritas, UMKM, dan pembiayaan inklusif."
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "Rasio Intermediasi Makroprudensial (RIM) dan Penyangga Likuiditas Makroprudensial (PLM)",
+      "articles": [
+        {
+          "number": "6",
+          "content": "1. Bank menetapkan Target RIM dalam rentang 80% (delapan puluh persen)\nsampai dengan 98% (sembilan puluh delapan persen).\n2. Dalam hal realisasi RIM berada di luar rentang target yang ditetapkan otoritas\neksternal, Bank menyediakan tambahan saldo Giro RIM di Bank Indonesia\nsesuai parameter disinsentif yang berlaku."
+        },
+        {
+          "number": "7",
+          "content": "1. Bank wajib memenuhi PLM dalam mata uang Rupiah sebesar 6% (enam persen)\ndari DPK dalam mata uang Rupiah.\n2. Pemenuhan PLM dilakukan dalam bentuk Surat Berharga Negara (SBN) dalam\nmata uang Rupiah atau surat berharga lain yang ditetapkan oleh Bank Indonesia.\n3. Bank dapat menggunakan PLM untuk transaksi Repurchase Agreement (Repo)\nkepada Bank Indonesia hingga batas maksimal 6% (enam persen) dari DPK\nRupiah."
+        },
+        {
+          "number": "8",
+          "content": "1. Keterlambatan dalam memenuhi kewajiban sanksi denda terkait Giro RIM atau\nPLM dikenakan denda keterlambatan sebesar 0,1% (nol koma satu persen) per\nhari dari jumlah sanksi denda yang belum dibayar.\n2. Batas maksimal denda keterlambatan adalah sebesar Rp100.000.000,00\n(seratus juta rupiah)."
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "Pinjaman Likuiditas Jangka Pendek (PLJP)",
+      "articles": [
+        {
+          "number": "9",
+          "content": "1. Bank dapat mengajukan permohonan PLJP kepada Bank Indonesia untuk\nmengatasi Kesulitan Likuiditas jangka pendek yang tidak dapat diatasi melalui\npasar uang.\n2. Pengajuan PLJP harus mendapatkan persetujuan Rapat Direksi dan dilaporkan\nkepada Dewan Komisaris."
+        },
+        {
+          "number": "10",
+          "content": "1. Bank wajib memenuhi kriteria solvabilitas dan Tingkat Kesehatan (TKS) minimal\nperingkat komposit 3 (tiga).\n2. Bank wajib melampirkan penilaian tertulis dari OJK mengenai pemenuhan\npersyaratan solvabilitas dalam surat permohonan kepada Bank Indonesia."
+        },
+        {
+          "number": "11",
+          "content": "1. PLJP wajib dijamin dengan agunan yang berkualitas tinggi mencakup: a.\nSertifikat Bank Indonesia (SBI); b. Surat Berharga Negara (SBN); c. Sekuritas\nRupiah Bank Indonesia (SRBI) dengan nilai agunan 100% dari nilai jual; d. Surat\nBerharga Korporasi peringkat investasi; e. Aset Kredit kualitas Lancar; f. Aset\nTetap berupa tanah dan bangunan.\n2. Bank diperkenankan menggunakan Aset Kredit dengan kualitas Lancar yang\nsedang dalam masa restrukturisasi sebagai bagian dari portofolio agunan\ntambahan."
+        },
+        {
+          "number": "12",
+          "content": "Selama menggunakan fasilitas PLJP atau belum melunasi kewajiban, Bank dilarang\nmelakukan pembagian dividen, memberikan bonus/tantiem kepada Direksi/Komisaris,\nmelakukan ekspansi bisnis baru, dan memberikan kredit kepada pihak terkait."
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "Ketentuan Penutup",
+      "articles": [
+        {
+          "number": "13",
+          "content": "Keputusan Direksi ini mulai berlaku pada tanggal ditetapkan dan akan dievaluasi\nsekurang-kurangnya 1 (satu) kali dalam setahun.\nDitetapkan di: Jakarta\nPada tanggal: 28 Mei 2024\nPT Bank Artha Sentosa Tbk\nDireksi,\nAndito Sudarman\nDirektur Utama"
+        }
+      ]
+    }
+  ],
+  "chapter_count": 5,
+  "article_count": 13,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\internal\\[Dummy] 088_DIR_BAS_2024.md"
+}
