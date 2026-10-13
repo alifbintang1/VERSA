@@ -1,62 +1,76 @@
-# VERSA — Compliance-Check Procedure (Pseudocode)
+# VERSA compliance-check procedure
 
-This is the reference procedure for VERSA compliance checking, reproduced from
-**Algorithm 1** of the companion paper *VERSA: A Knowledge Graph-Centric
-Framework for Regulatory Compliance Checking*.
+This is Algorithm 1 of the paper *A Revision-Aware Knowledge Graph Framework for Regulatory
+Compliance Checking*, with the equations it uses. Equation numbers follow the paper. No
+executable code is distributed in this repository.
 
-No executable code is distributed in this repository. This pseudocode, together
-with the paper (which gives the full definitions of the similarity functions and
-equations referenced below), fully specifies the method.
-
-## Inputs
-
-- `C_int` — internal article set
-- `C_ext` — external article set
-- `G` — knowledge graph (structure, concept, obligation, and revision layers)
-- `λ_c, λ_e` — concept / embedding weights for the hybrid retrieval score
-- `k_struct, k_final` — structural-prefilter depth and final-candidate depth
-- `Φ` — structured-output reasoner
-
-## Output
-
-- `V` — compliance report: a set of records `(c_i, c_j, v, ρ, τ, M⁺, M⁻)`
-
-## Procedure
+## Algorithm 1: VERSA compliance check
 
 ```text
-Algorithm 1  VERSA Compliance Check
+Require: internal article set C^int, external article set C^ext, knowledge graph G,
+         weights λc and λe, retrieval depths k_struct and k_final, reasoner ρ
+Ensure:  compliance report V
 
- 1  V ← ∅                                              # empty compliance report
- 2  C_ext_active ← { c ∈ C_ext : status(c) = active }  # exclude superseded versions
-
- 3  for each article c ∈ C_int ∪ C_ext_active:
- 4      pre-load concept set K(c), embedding e(c), and obligation set O(c) from G
-
- 6  for each internal article c_i ∈ C_int:
- 7      C_pre_i ← structural prefilter: the top-k_struct external articles
-                  by section-level embedding similarity
- 8      for each candidate c_j ∈ C_pre_i:
- 9          S_concept(c_i, c_j) ← specificity-weighted Jaccard on K(c_i), K(c_j)   (Eq. 7)
-10          S_emb(c_i, c_j)     ← cosine( e(c_i), e(c_j) )                          (Eq. 8)
-11          R(c_i, c_j)         ← λ_c · S_concept(c_i, c_j) + λ_e · S_emb(c_i, c_j) (Eq. 6)
-13      P_i ← top-k_final candidates in C_pre_i ranked by R(c_i, ·), descending
-
-14      for each candidate external article c_j ∈ P_i:
-15          payload ← texts of c_i, c_j and obligation sets O(c_i), O(c_j)
-16          (v, ρ, τ, M⁺, M⁻) ← Φ(payload)   # verdict, reason code, rationale,
-                                              # matched and missing obligations
-17          append record (c_i, c_j, v, ρ, τ, M⁺, M⁻) to V
-
-20  return V
+build active external subset C^ext_active = { c ∈ C^ext : status(c) = active },
+      excluding superseded versions                                             (2)
+preload K(c), e(c), and O(c) from G for every article in C^int and C^ext_active
+for each internal article c_i in C^int do
+    apply structural prefilter: take the top k_struct external sections by
+        section-level embedding similarity; let C^pre be the articles they contain
+    for each candidate c_j in C^pre do
+        compute S_concept using (5), S_embedding using (6),
+            and the hybrid score R(c_i, c_j) using (4)
+    end for
+    select P_i, the top k_final candidates in C^pre by descending R
+    for each c_j in P_i do
+        invoke reasoner ρ on the texts of c_i and c_j with O(c_i) and O(c_j) to obtain
+            verdict v, reason code r, rationale s, matched M+, and missing M-
+        append (c_i, c_j, v, r, s, M+, M-) to V
+    end for
+end for
+return V
 ```
+
+## Equations
+
+Active external subset, where the status of each article version is materialized by the
+revision layer at ingestion:
+
+$$C^{ext}_{active} = \{\, c \in C^{ext} : \mathrm{status}(c) = \mathrm{active} \,\} \qquad (2)$$
+
+Specificity of a concept $k$, with $V_{article}$ the set of article nodes in the graph:
+
+$$\mathrm{spec}(k) = \log \frac{|V_{article}|}{|\{\, c : k \in K(c) \,\}| + 1} \qquad (3)$$
+
+Hybrid retrieval score:
+
+$$R(c_i, c_j) = \lambda_c\, S_{concept}(c_i, c_j) + \lambda_e\, S_{embedding}(c_i, c_j) \qquad (4)$$
+
+Concept similarity, the specificity-weighted Jaccard coefficient of the two concept sets:
+
+$$S_{concept}(c_i, c_j) = \frac{\sum_{k \in K(c_i) \cap K(c_j)} \mathrm{spec}(k)}{\sum_{k \in K(c_i) \cup K(c_j)} \mathrm{spec}(k)} \qquad (5)$$
+
+Embedding similarity, the cosine of the two article embeddings:
+
+$$S_{embedding}(c_i, c_j) = \frac{e(c_i) \cdot e(c_j)}{\lVert e(c_i) \rVert \, \lVert e(c_j) \rVert} \qquad (6)$$
 
 ## Notation
 
-- `v` ∈ {`COMPLY`, `NON-COMPLY`} — binary compliance verdict
-- `ρ` — controlled reason code drawn from a fixed vocabulary (see paper)
-- `τ` — natural-language rationale
-- `M⁺` / `M⁻` — matched / missing obligations
-- `status(c)` — active vs. superseded article version (revision layer)
+- `K(c)`: the concept set of article `c`; `e(c)`: its embedding; `O(c)`: its obligation set,
+  each obligation carrying subject, action, object, condition, time constraint, modality, and
+  sanction.
+- `v`: the binary verdict, Comply or Non-Comply.
+- `r`: the reason code, from a fixed vocabulary: full alignment when the internal provision
+  satisfies the external one, and coverage gap, condition gap, threshold gap, weakened
+  obligation, or direct conflict for the ways it can fail.
+- `s`: the natural-language rationale.
+- `M+` and `M-`: the matched and the missing obligation elements.
 
-`S_concept` (Eq. 7), `S_emb` (Eq. 8), the hybrid retrieval score `R` (Eq. 6), and
-the reason-code vocabulary are defined in the paper.
+## Settings used in the paper
+
+- Mixing weights λc = 0.2 and λe = 0.8.
+- Retrieval depths k_struct = k_final = 3.
+- Embeddings: OpenAI text-embedding-3-large at 3072 dimensions.
+- Reasoner: gpt-5.4, with gpt-5.4-mini for extraction and gpt-5.4-nano for cross-references,
+  all at temperature zero.
+- Graph store: Neo4j Aura 5.28.

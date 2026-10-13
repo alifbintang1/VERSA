@@ -1,0 +1,402 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "title": "KETENTUAN UMUM",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "1",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:\n1. Bank adalah bank umum sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai perbankan, termasuk kantor cabang dari bank yang berkedudukan di luar negeri, serta bank umum syariah dan unit usaha syariah sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai perbankan syariah.\n2. Pelapor adalah Bank yang menyampaikan laporan melalui sistem pelaporan terintegrasi Bank Indonesia.\n3. Laporan Bank Umum Terintegrasi yang selanjutnya disebut Laporan adalah informasi yang disusun dan disampaikan oleh Pelapor kepada Bank Indonesia secara terintegrasi dalam format dan definisi yang seragam sesuai dengan metadata yang ditetapkan oleh otoritas.\n4. Hari Kerja adalah hari kerja Bank Indonesia, tidak termasuk hari yang ditetapkan Bank Indonesia untuk melakukan kegiatan operasional terbatas."
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "title": "KEWAJIBAN DAN TANGGUNG JAWAB PELAPOR",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "2",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor wajib menyusun dan menyampaikan Laporan kepada Bank Indonesia.\n- (2) Laporan sebagaimana dimaksud pada ayat (1) wajib disusun dan disampaikan secara lengkap, akurat, kini, utuh, dan tepat waktu."
+        },
+        {
+          "article_number": "3",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor wajib menunjuk petugas dan penanggung jawab Laporan.\n- (2) Penunjukan petugas dan penanggung jawab sebagaimana dimaksud pada ayat (1) dan perubahannya disampaikan secara tertulis kepada Bank Indonesia.\n- (3) Penunjukan petugas dan penanggung jawab sebagaimana dimaksud pada ayat (1) tidak mengurangi dan/atau menghilangkan tanggung jawab direksi Bank atau pimpinan kantor cabang dari bank yang berkedudukan di luar negeri.\n- (4) Ketentuan lebih lanjut mengenai proses pendaftaran petugas dan penanggung jawab diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "title": "PENYUSUNAN LAPORAN DAN",
+      "sections": [
+        {
+          "section_number": "Kesatu",
+          "title": "Penyusunan Laporan"
+        },
+        {
+          "section_number": "Kedua",
+          "title": "Penyampaian Laporan dan/atau Koreksi Laporan"
+        }
+      ],
+      "articles": [
+        {
+          "article_number": "4",
+          "section_number": "Kesatu",
+          "section_title": "Penyusunan Laporan",
+          "content": "Penyusunan Laporan sebagaimana dimaksud dalam Pasal 2 mengacu pada metadata yang ditetapkan oleh otoritas."
+        },
+        {
+          "article_number": "5",
+          "section_number": "Kesatu",
+          "section_title": "Penyusunan Laporan",
+          "content": "- (1) Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1) terdiri atas 4 (empat) kelompok informasi yaitu:\n- a. kelompok informasi keuangan;\n- b. kelompok informasi risiko;\n- c. kelompok informasi kegiatan sistem pembayaran dan jasa keuangan; dan\n- d. kelompok informasi data pokok.\n- (2) Laporan sebagaimana dimaksud pada ayat (1) huruf a dan huruf d dilaporkan secara:\n- a. individual per kantor cabang Pelapor;\n- b. gabungan seluruh kantor Pelapor; dan/atau\n- c. konsolidasi bank dan perusahaan anak.\n- (3) Laporan sebagaimana dimaksud pada ayat (1) huruf b dan huruf c dilaporkan secara gabungan seluruh kantor Pelapor."
+        },
+        {
+          "article_number": "6",
+          "section_number": "Kesatu",
+          "section_title": "Penyusunan Laporan",
+          "content": "Ketentuan lebih lanjut mengenai penyusunan Laporan diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "7",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "- (1) Penyampaian Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1) dilakukan oleh Pelapor yang memiliki kewajiban penyampaian Laporan sesuai dengan ketentuan Bank Indonesia.\n- (2) Penyampaian Laporan sebagaimana dimaksud pada ayat (1) dilakukan secara terpusat oleh Pelapor yang meliputi:\n- a. kantor pusat bank atau kantor koordinator yang ditunjuk;\n- b. unit usaha syariah; dan\n- c. kantor cabang dari bank yang berkedudukan di luar negeri.\n- (3) Dalam hal Laporan belum dapat disampaikan oleh Pelapor sebagaimana dimaksud pada ayat (2), Laporan disampaikan oleh masing-masing kantor cabang Pelapor.\n- (4) Dalam hal Laporan disampaikan oleh masing-masing kantor cabang Pelapor sebagaimana dimaksud pada ayat (3), Pelapor wajib menyampaikan pemberitahuan secara tertulis kepada Bank Indonesia disertai dengan rencana tindak yang telah disetujui oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "article_number": "8",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "- (1) Dalam hal terdapat kesalahan pada Laporan yang telah disampaikan, Pelapor wajib menyampaikan koreksi Laporan.\n- (2) Koreksi Laporan sebagaimana dimaksud pada ayat (1) dilakukan atas dasar:\n- a. inisiatif Pelapor;\n- b. hasil audit oleh akuntan publik; atau\n- c. temuan Bank Indonesia, dan/atau otoritas lainnya."
+        },
+        {
+          "article_number": "9",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "Ketentuan lebih lanjut mengenai penyampaian Laporan dan/atau koreksi Laporan diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "title": "PERIODISASI LAPORAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "10",
+          "section_number": null,
+          "section_title": null,
+          "content": "Periode penyampaian untuk Laporan sebagaimana dimaksud dalam Pasal 5 terdiri atas:\n- a. harian;\n- b. mingguan;\n- c. bulanan; dan\n- d. triwulanan."
+        },
+        {
+          "article_number": "11",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Laporan yang disampaikan secara harian sebagaimana dimaksud dalam Pasal 10 huruf a meliputi:\n- a. kelompok informasi keuangan;\n- b. kelompok informasi risiko; dan\n- c. kelompok informasi kegiatan sistem pembayaran dan jasa keuangan.\n- (2) Laporan yang disampaikan secara mingguan sebagaimana dimaksud dalam Pasal 10 huruf b berupa kelompok informasi risiko.\n- (3) Laporan yang disampaikan secara bulanan sebagaimana dimaksud dalam Pasal 10 huruf c meliputi:\n- a. kelompok informasi keuangan;\n- b. kelompok informasi risiko;\n- c. kelompok informasi kegiatan sistem pembayaran dan jasa keuangan; dan\n- d. kelompok informasi data pokok.\n- (4) Laporan yang disampaikan secara triwulanan sebagaimana dimaksud dalam Pasal 10 huruf d meliputi:\n- a. kelompok informasi keuangan;\n- b. kelompok informasi risiko; dan\n- c. kelompok informasi kegiatan sistem pembayaran dan jasa keuangan.\n- (5) Ketentuan lebih lanjut mengenai rincian kelompok informasi untuk setiap periode penyampaian Laporan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "12",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam hal terdapat perubahan informasi pada kelompok informasi data pokok sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d, Pelapor wajib menyampaikan perubahan tersebut kepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+      "title": "BATAS WAKTU PENYAMPAIAN LAPORAN DAN/ATAU KOREKSI LAPORAN",
+      "sections": [
+        {
+          "section_number": "Kesatu",
+          "title": "Penyampaian Laporan dan/atau Koreksi Laporan untuk Data Akhir Bulan Desember 2019 sampai dengan Data Akhir Bulan Agustus 2020"
+        },
+        {
+          "section_number": "Kedua",
+          "title": "Penyampaian Laporan dan/atau Koreksi Laporan"
+        }
+      ],
+      "articles": [
+        {
+          "article_number": "13",
+          "section_number": null,
+          "section_title": null,
+          "content": "Penyampaian Laporan dan/atau koreksi Laporan terdiri atas:\n- a. penyampaian Laporan dan/atau koreksi Laporan untuk data akhir bulan Desember 2019 sampai dengan data akhir bulan Agustus 2020; dan\n- b. penyampaian Laporan dan/atau koreksi Laporan sejak data bulan September 2020."
+        },
+        {
+          "article_number": "14",
+          "section_number": "Kesatu",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan untuk Data Akhir Bulan Desember 2019 sampai dengan Data Akhir Bulan Agustus 2020",
+          "content": "- (1) Pelapor harus menyampaikan Laporan dan/atau koreksi Laporan untuk data akhir bulan Desember 2019 sampai dengan data akhir bulan Agustus 2020 sebagaimana dimaksud dalam Pasal 13 huruf a dalam batas waktu yang ditetapkan Bank Indonesia dengan ketentuan sebagai berikut:\n- a. batas waktu penyampaian Laporan secara harian sebagaimana dimaksud dalam Pasal 10 huruf a yaitu pukul 23.59 WIB, pada setiap hari kerja termasuk hari yang ditetapkan Bank Indonesia untuk melakukan kegiatan operasional terbatas;\n- b. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara mingguan sebagaimana dimaksud dalam Pasal 10 huruf b:\n1. tanggal 9, untuk data tanggal 24 sampai dengan akhir bulan sebelumnya;\n2. tanggal 16, untuk data tanggal 1 sampai dengan tanggal 7;\n3. tanggal 24, untuk data tanggal 8 sampai dengan tanggal 15; dan\n4. tanggal 2 bulan berikutnya, untuk data tanggal 16 sampai dengan tanggal 23;\n- c. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara bulanan sebagaimana dimaksud dalam Pasal 10 huruf c yaitu tanggal 20 bulan berikutnya; dan\n- d. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara triwulanan sebagaimana dimaksud dalam Pasal 10 huruf d yaitu tanggal 28 bulan Januari, bulan April, dan bulan Juli.\n- (2) Dalam hal batas waktu penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud pada ayat (1) huruf b, huruf c, dan huruf d jatuh pada hari Sabtu, hari Minggu, hari libur nasional, dan/atau hari cuti bersama yang ditetapkan oleh Bank Indonesia sehubungan dengan perayaan hari raya keagamaan maka batas waktu penyampaian Laporan dan/atau koreksi Laporan yaitu Hari Kerja berikutnya, kecuali ditetapkan lain oleh Bank Indonesia.\n- (3) Penyampaian Laporan sebagaimana dimaksud pada ayat (1) huruf a tidak berlaku dalam hal Pelapor tidak beroperasi, dengan terlebih dahulu menyampaikan pemberitahuan secara tertulis kepada Bank Indonesia."
+        },
+        {
+          "article_number": "15",
+          "section_number": "Kesatu",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan untuk Data Akhir Bulan Desember 2019 sampai dengan Data Akhir Bulan Agustus 2020",
+          "content": "Penyampaian Laporan dan/atau koreksi Laporan untuk data akhir bulan Juni 2020 sampai dengan data akhir bulan Agustus 2020 berlaku ketentuan sebagai berikut:\n- a. Pelapor dinyatakan terlambat menyampaikan Laporan dan/atau koreksi Laporan untuk 1 (satu) periode penyampaian sebagaimana dimaksud dalam Pasal 10 huruf b, huruf c, dan huruf d dalam hal Laporan dan/atau koreksi Laporan diterima oleh Bank Indonesia dalam periode keterlambatan yaitu sampai dengan 2 (dua) hari setelah batas waktu penyampaian\nsebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b, huruf c, dan huruf d;\n- b. dalam hal batas akhir periode keterlambatan penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam huruf a jatuh pada hari Sabtu, hari Minggu, atau hari libur nasional maka batas akhir periode keterlambatan penyampaian Laporan dan/atau koreksi Laporan yaitu Hari Kerja berikutnya, kecuali ditetapkan lain oleh Bank Indonesia;\n- c. Pelapor dinyatakan tidak menyampaikan Laporan dalam hal Bank Indonesia belum menerima Laporan sampai dengan batas waktu sebagaimana dimaksud dalam huruf a dan Pasal 14 ayat (1) huruf a;\n- d. Pelapor yang dinyatakan terlambat menyampaikan Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam huruf a diberikan pemberitahuan tertulis; dan\n- e. Pelapor yang dinyatakan tidak menyampaikan Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam huruf c diberikan pemberitahuan tertulis."
+        },
+        {
+          "article_number": "16",
+          "section_number": "Kesatu",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan untuk Data Akhir Bulan Desember 2019 sampai dengan Data Akhir Bulan Agustus 2020",
+          "content": "Ketentuan lebih lanjut mengenai penyampaian Laporan dan/atau koreksi Laporan untuk data akhir bulan Desember 2019 sampai dengan data akhir bulan Agustus 2020 diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "17",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "- (1) Pelapor wajib menyampaikan Laporan dan/atau koreksi Laporan sejak data bulan September 2020 sebagaimana dimaksud dalam Pasal 13 huruf b dalam batas waktu yang ditetapkan Bank Indonesia dengan ketentuan sebagai berikut:\n- a. batas waktu penyampaian Laporan secara harian sebagaimana dimaksud dalam Pasal 10 huruf a: 1. pukul 10.30 WIB;\n2. pukul 12.00 WIB;\n3. pukul 18.00 WIB; dan\n4. pukul 23.59 WIB,\npada setiap hari kerja termasuk hari yang ditetapkan Bank Indonesia untuk melakukan kegiatan operasional terbatas; b. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara mingguan sebagaimana dimaksud dalam Pasal 10 huruf b:\n1. tanggal 6, untuk data tanggal 24 sampai dengan akhir bulan sebelumnya;\n2. tanggal 13, untuk data tanggal 1 sampai dengan tanggal 7;\n3. tanggal 21, untuk data tanggal 8 sampai dengan tanggal 15; dan\n4. tanggal 29, untuk data tanggal 16 sampai dengan tanggal 23;\nc. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara bulanan sebagaimana dimaksud dalam Pasal 10 huruf c: 1. tanggal 5 bulan berikutnya setelah berakhirnya bulan Laporan yang bersangkutan untuk kelompok informasi keuangan dan kelompok informasi data pokok; dan\n2. tanggal 15 bulan berikutnya setelah berakhirnya bulan Laporan yang bersangkutan untuk kelompok informasi risiko serta kelompok informasi kegiatan sistem pembayaran dan jasa keuangan; dan\nd. batas waktu penyampaian Laporan dan/atau koreksi Laporan secara triwulanan sebagaimana dimaksud dalam Pasal 10 huruf d:\n1. tanggal 10 bulan April, bulan Juli, bulan Oktober, dan bulan Januari, untuk kelompok informasi risiko dan kelompok informasi kegiatan sistem pembayaran dan jasa keuangan; dan\n2. tanggal 23 bulan April, bulan Juli, bulan Oktober, dan bulan Januari, untuk kelompok informasi keuangan.\n- (2) Dalam hal batas waktu penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud pada ayat (1) huruf b, huruf c, dan huruf d jatuh pada hari Sabtu, hari Minggu, hari libur nasional, dan/atau hari cuti bersama yang ditetapkan oleh Bank Indonesia sehubungan dengan perayaan hari raya keagamaan maka batas waktu penyampaian Laporan dan/atau koreksi Laporan yaitu Hari Kerja berikutnya, kecuali ditetapkan lain oleh Bank Indonesia.\n- (3) Kewajiban penyampaian Laporan sebagaimana dimaksud pada ayat (1) huruf a tidak berlaku dalam hal Pelapor tidak beroperasi, dengan terlebih dahulu menyampaikan pemberitahuan secara tertulis kepada Bank Indonesia."
+        },
+        {
+          "article_number": "18",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "- (1) Pelapor dinyatakan terlambat menyampaikan Laporan dan/atau koreksi Laporan untuk 1 (satu) periode penyampaian sebagaimana dimaksud dalam Pasal 10 huruf b, huruf c, dan huruf d dalam hal Laporan dan/atau koreksi Laporan diterima oleh Bank Indonesia dalam periode keterlambatan yaitu sampai dengan 2 (dua) hari setelah batas waktu penyampaian sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b, huruf c, dan huruf d.\n- (2) Dalam hal batas akhir periode keterlambatan penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud pada ayat (1) jatuh pada hari Sabtu, hari Minggu, atau hari libur nasional maka batas akhir periode keterlambatan penyampaian Laporan\ndan/atau koreksi Laporan yaitu Hari Kerja berikutnya, kecuali ditetapkan lain oleh Bank Indonesia."
+        },
+        {
+          "article_number": "19",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "Pelapor dinyatakan tidak menyampaikan Laporan dalam hal Bank Indonesia belum menerima Laporan sampai dengan batas waktu sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf a dan Pasal 18."
+        },
+        {
+          "article_number": "20",
+          "section_number": "Kedua",
+          "section_title": "Penyampaian Laporan dan/atau Koreksi Laporan",
+          "content": "Ketentuan lebih lanjut mengenai penyampaian Laporan dan/atau koreksi Laporan sejak data bulan September 2020 diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VI",
+      "title": "PROSEDUR PENYAMPAIAN LAPORAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "21",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pelapor harus menyampaikan Laporan dan/atau koreksi Laporan secara _online_ melalui sistem pelaporan terintegrasi Bank Indonesia."
+        },
+        {
+          "article_number": "22",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Dalam hal Pelapor:\n- a. mengalami gangguan teknis dalam menyampaikan Laporan dan/atau koreksi Laporan; dan/atau\n- b. tidak dapat menyampaikan Laporan dan/atau koreksi Laporan yang disebabkan gangguan teknis dan/atau gangguan lainnya pada sistem atau jaringan telekomunikasi di Bank Indonesia,\nyang terjadi pada batas waktu penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam Pasal 17 maka Laporan dan/atau koreksi Laporan disampaikan secara _offline_ .\n- (2) Penyampaian Laporan dan/atau koreksi Laporan secara _offline_ sebagaimana dimaksud pada ayat (1) dilakukan dengan ketentuan sebagai berikut:\n- a. penyampaian Laporan dan/atau koreksi Laporan dengan periode penyampaian Laporan secara harian sebagaimana dimaksud dalam Pasal 10 huruf a disampaikan paling lambat:\n1. pukul 10.45 WIB, untuk Laporan yang disampaikan dengan batas waktu pukul 10.30 WIB;\n2. pukul 14.00 WIB, untuk Laporan yang disampaikan dengan batas waktu pukul 12.00 WIB;\n3. pukul 20.00 WIB, untuk Laporan yang disampaikan dengan batas waktu pukul 18.00 WIB; dan\n4. pukul 10.00 WIB Hari Kerja berikutnya, untuk Laporan yang disampaikan dengan batas waktu pukul 23.59 WIB; dan\n- b. penyampaian Laporan dan/atau koreksi Laporan dengan periode penyampaian Laporan secara mingguan, bulanan, dan triwulanan sebagaimana dimaksud dalam Pasal 10 huruf b, huruf c, dan huruf d disampaikan pada Hari Kerja berikutnya setelah batas waktu penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b, huruf c, dan huruf d.\n- (3) Penyampaian Laporan dan/atau koreksi Laporan secara _offline_ sebagaimana dimaksud pada ayat (1) disertai dengan surat pemberitahuan kepada Bank Indonesia yang mewilayahi Pelapor.\n- (4) Penyampaian Laporan dan/atau koreksi Laporan secara _offline_ oleh Pelapor yang mengalami gangguan teknis sebagaimana dimaksud pada ayat (1) huruf a harus disertai dengan bukti dan penjelasan mengenai gangguan teknis tersebut.\n- (5) Bank Indonesia memberitahukan secara tertulis atau melalui sarana lain kepada Pelapor mengenai terjadinya gangguan sebagaimana dimaksud pada ayat (1) huruf b.\n- (6) Ketentuan lebih lanjut mengenai penyampaian Laporan dan/atau koreksi Laporan secara _offline_ diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "23",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam hal terjadi kerusakan pada Laporan dan/atau koreksi Laporan yang diterima karena adanya gangguan pada sistem _database_ dan/atau jaringan komunikasi di Bank Indonesia maka Bank Indonesia dapat meminta Pelapor untuk menyampaikan ulang Laporan dan/atau koreksi Laporan."
+        },
+        {
+          "article_number": "24",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang memiliki kewajiban penyampaian Laporan sebagaimana dimaksud dalam Pasal 7 ayat (1) namun tidak memiliki data atau transaksi terkait pada periode Laporan, tetap wajib menyampaikan Laporan dengan isian nihil.\n- (2) Ketentuan lebih lanjut mengenai penyampaian informasi nihil diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "25",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor dinyatakan telah menyampaikan Laporan dan/atau koreksi Laporan pada tanggal diterimanya Laporan dan/atau koreksi Laporan oleh Bank Indonesia.\n- (2) Penerimaan Laporan dan/atau koreksi Laporan sebagaimana dimaksud pada ayat (1) dibuktikan dengan tanda terima penyampaian Laporan.\n- (3) Tanda terima penyampaian Laporan sebagaimana dimaksud pada ayat (2) diberikan dalam hal Laporan dan/atau koreksi Laporan dinyatakan lolos validasi sistem pelaporan terintegrasi Bank Indonesia.\n- (4) Ketentuan lebih lanjut mengenai tanda terima penyampaian Laporan dan/atau koreksi Laporan diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "26",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang mengalami keadaan kahar sehingga menyebabkan tidak tersedianya informasi, dikecualikan dari kewajiban menyampaikan Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1).\n- (2) Pelapor yang mengalami keadaan kahar sehingga menyebabkan terhambatnya penyampaian Laporan dan/atau koreksi Laporan, dikecualikan dari kewajiban menyampaikan Laporan dan/atau koreksi Laporan dalam batas waktu sebagaimana dimaksud dalam Pasal 17 dan Pasal 18.\n- (3) Pelapor yang mengalami keadaan kahar sebagaimana dimaksud pada ayat (1) dan ayat (2) harus segera menyampaikan permohonan pengecualian secara tertulis kepada Bank Indonesia dengan memberikan penjelasan mengenai keadaan kahar yang dialami.\n- (4) Pengecualian sebagaimana dimaksud pada ayat (1) dan ayat (2) berlaku dalam hal permohonan sebagaimana dimaksud pada ayat (3) telah disetujui oleh Bank Indonesia.\n- (5) Pelapor sebagaimana dimaksud pada ayat (2) harus menyampaikan Laporan dan/atau koreksi Laporan setelah Pelapor kembali melakukan kegiatan operasional secara normal.\n- (6) Ketentuan lebih lanjut mengenai keadaan kahar diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VII",
+      "title": "PENGAWASAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "27",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Bank Indonesia berwenang melakukan pengawasan terhadap Laporan yang disampaikan oleh Pelapor melalui: a. pengawasan tidak langsung; dan/atau\n- b. pemeriksaan.\n- (2) Pemeriksaan sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan dengan cara sebagai berikut:\n- a. Bank Indonesia melakukan pemeriksaan langsung kepada Pelapor; atau\n- b. Bank Indonesia melakukan pemeriksaan bersama Otoritas Jasa Keuangan terhadap Pelapor."
+        }
+      ]
+    },
+    {
+      "chapter_number": "VIII",
+      "title": "SANKSI ADMINISTRATIF",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "28",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 2 ayat (2), Pasal 8 ayat (1), Pasal 17 ayat (1), dan/atau Pasal 24 ayat (1) dikenai sanksi administratif berupa:\n- a. teguran tertulis; dan/atau\n- b. kewajiban membayar.\n- (2) Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 3 ayat (1), Pasal 7 ayat (4), dan/atau Pasal 12 dikenai sanksi administratif berupa teguran tertulis."
+        },
+        {
+          "article_number": "29",
+          "section_number": null,
+          "section_title": null,
+          "content": "Bank Indonesia menginformasikan pengenaan sanksi sebagaimana dimaksud dalam Pasal 28 kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "article_number": "30",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang dinyatakan terlambat menyampaikan Laporan sebagaimana dimaksud dalam Pasal 18 dikenai sanksi kewajiban membayar untuk satu periode penyampaian sebesar Rp1.000.000,00 (satu juta rupiah) per Hari Kerja untuk setiap kelompok informasi.\n- (2) Pelapor yang dinyatakan terlambat menyampaikan koreksi Laporan sebagaimana dimaksud dalam Pasal 18 dikenai sanksi kewajiban membayar untuk satu periode penyampaian sebesar Rp100.000,00 (seratus ribu rupiah) per Hari Kerja untuk setiap kelompok informasi.\n- (3) Pelapor yang dinyatakan tidak menyampaikan Laporan sebagaimana dimaksud dalam Pasal 19 dikenai sanksi kewajiban membayar untuk satu periode penyampaian sebesar:\n- a. Rp2.000.000,00 (dua juta rupiah) per kelompok informasi untuk Laporan yang disampaikan secara harian;\n- b. Rp15.000.000,00 (lima belas juta rupiah) per kelompok informasi untuk Laporan yang disampaikan secara mingguan;\n- c. Rp30.000.000,00 (tiga puluh juta rupiah) per kelompok informasi untuk Laporan yang disampaikan secara bulanan; dan/atau\n- d. Rp15.000.000,00 (lima belas juta rupiah) per kelompok informasi untuk Laporan yang disampaikan secara triwulanan.\n- (4) Pelapor yang menyampaikan koreksi Laporan di luar batas periode keterlambatan sebagaimana dimaksud dalam Pasal 18 atas inisiatif Pelapor sebagaimana dimaksud dalam Pasal 8 ayat (2) huruf a, dikenai sanksi kewajiban membayar sebesar Rp50.000,00 (lima puluh ribu rupiah) per baris dan paling banyak:\n- a. Rp1.000.000,00 (satu juta rupiah) per kelompok informasi yang disampaikan secara harian; dan/atau\n- b. Rp5.000.000,00 (lima juta rupiah) per kelompok informasi yang disampaikan secara mingguan, bulanan, atau triwulanan.\n- (5) Pengenaan sanksi kewajiban membayar atas koreksi Laporan sebagaimana dimaksud pada ayat (4) untuk lebih dari satu periode Laporan, diberikan paling banyak 12 (dua belas) periode Laporan sejak periode Laporan terakhir yang dikoreksi.\n- (6) Dalam hal berdasarkan pengawasan Bank Indonesia sebagaimana dimaksud dalam Pasal 27 dan/atau informasi dari otoritas lainnya ditemukan kesalahan dalam Laporan yang telah disampaikan oleh Pelapor maka Pelapor dikenai sanksi kewajiban membayar sebesar\nRp100.000,00 (seratus ribu rupiah) per baris dan paling banyak:\n- a. Rp2.000.000,00 (dua juta rupiah) per kelompok informasi yang disampaikan secara harian; dan/atau\n- b. Rp10.000.000,00 (sepuluh juta rupiah) per kelompok informasi yang disampaikan secara mingguan, bulanan, atau triwulanan.\n- (7) Pengenaan sanksi kewajiban membayar atas kesalahan dalam Laporan sebagaimana dimaksud pada ayat (6) untuk lebih dari satu periode Laporan, diberikan paling banyak 12 (dua belas) periode penyampaian Laporan sejak periode Laporan terakhir ditemukannya kesalahan."
+        },
+        {
+          "article_number": "31",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Ketentuan pengenaan sanksi kewajiban membayar sebagaimana dimaksud dalam Pasal 30 diberlakukan kepada setiap kantor cabang Pelapor dalam hal Laporan merupakan laporan individual per kantor cabang Pelapor sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a.\n- (2) Ketentuan pengenaan sanksi kewajiban membayar sebagaimana dimaksud dalam Pasal 30 ayat (4) dan ayat (6) diberlakukan kepada setiap kantor cabang Pelapor sebagaimana dimaksud pada ayat (1) paling banyak:\n- a. Rp30.000.000,00 (tiga puluh juta rupiah), untuk setiap Pelapor yang memiliki kantor cabang paling banyak 30 (tiga puluh) kantor;\n- b. Rp125.000.000,00 (seratus dua puluh lima juta rupiah), untuk setiap Pelapor yang memiliki kantor cabang berjumlah 31 (tiga puluh satu) sampai dengan 100 (seratus) kantor; dan\n- c. Rp500.000.000,00 (lima ratus juta rupiah), untuk setiap Pelapor yang memiliki kantor cabang paling sedikit 101 (seratus satu) kantor."
+        },
+        {
+          "article_number": "32",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang telah dikenai sanksi kewajiban membayar sebagaimana dimaksud dalam Pasal 30 ayat (3) tetap diwajibkan untuk menyampaikan Laporan.\n- (2) Pelapor yang tidak memenuhi kewajiban sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif berupa teguran tertulis."
+        },
+        {
+          "article_number": "33",
+          "section_number": null,
+          "section_title": null,
+          "content": "Dalam hal terdapat kesalahan informasi pada Laporan yang telah disampaikan sehingga berdampak pada kesalahan informasi lain maka kesalahan informasi lain tersebut tidak dikenai sanksi kewajiban membayar sebagaimana dimaksud dalam Pasal 30 ayat (4) dan ayat (6)."
+        },
+        {
+          "article_number": "34",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketentuan pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 28 dikecualikan bagi:\n- a. Pelapor yang melakukan koreksi Laporan atas dasar hasil audit oleh akuntan publik sebagaimana dimaksud dalam Pasal 8 ayat (2) huruf b;\n- b. Pelapor yang mengalami keadaan kahar sebagaimana dimaksud dalam Pasal 26; dan\n- c. Pelapor yang tidak dapat menyampaikan Laporan dan/atau koreksi Laporan yang disebabkan gangguan teknis dan/atau gangguan lainnya pada sistem atau jaringan telekomunikasi di Bank Indonesia sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b."
+        },
+        {
+          "article_number": "35",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pengenaan sanksi kewajiban membayar sebagaimana dimaksud dalam Pasal 30 dan Pasal 31 dilaksanakan dengan mendebit rekening giro rupiah Pelapor di Bank Indonesia."
+        },
+        {
+          "article_number": "36",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "IX",
+      "title": "KORESPONDENSI",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "37",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Penyampaian informasi dan/atau permohonan sebagaimana dimaksud dalam Pasal 3 ayat (2), Pasal 7 ayat (4), Pasal 14 ayat (3), dan Pasal 26 ayat (3) ditujukan kepada Departemen Pengelolaan dan Kepatuhan Laporan, Menara Sjafruddin Prawiranegara, Jalan M.H. Thamrin Nomor 2, Jakarta 10350.\n- (2) Penyampaian Laporan dan/atau koreksi Laporan secara _offline_ sebagaimana dimaksud dalam Pasal 22 ditujukan kepada:\n- a. Departemen Pengelolaan dan Kepatuhan Laporan, Menara Sjafruddin Prawiranegara, Jalan M.H. Thamrin Nomor 2, Jakarta 10350, bagi Pelapor yang berkedudukan di wilayah kerja Kantor Pusat Bank Indonesia; atau\n- b. Kantor Perwakilan Bank Indonesia setempat, bagi Pelapor yang berkedudukan di luar wilayah sebagaimana dimaksud dalam huruf a.\n- (3) Dalam hal terdapat perubahan korespondensi sebagaimana dimaksud pada ayat (1) dan ayat (2), Bank Indonesia memberitahukan perubahan tersebut kepada Pelapor melalui surat atau sarana lain."
+        }
+      ]
+    },
+    {
+      "chapter_number": "X",
+      "title": "KETENTUAN LAIN-LAIN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "38",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Pelapor yang akan melakukan penggabungan, peleburan, pengambilalihan, pemisahan, dan/atau konversi bank\numum konvensional menjadi bank umum syariah, tetap wajib menyampaikan Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1).\n- (2) Ketentuan lebih lanjut mengenai penyampaian Laporan dan/atau koreksi Laporan bagi Pelapor sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Anggota Dewan Gubernur."
+        },
+        {
+          "article_number": "39",
+          "section_number": null,
+          "section_title": null,
+          "content": "- (1) Bank Indonesia dapat menyediakan hasil olahan Laporan kepada pihak lain dalam pelaksanaan ketentuan peraturan perundang-undangan, perjanjian, dan/atau nota kesepahaman dengan Bank Indonesia.\n- (2) Penyediaan hasil olahan Laporan sebagaimana dimaksud pada ayat (1) meliputi kelompok informasi keuangan dan kelompok informasi kegiatan sistem pembayaran dan jasa keuangan.\n- (3) Ketentuan lebih lanjut mengenai mekanisme permintaan dan cakupan hasil olahan Laporan diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "chapter_number": "XI",
+      "title": "KETENTUAN PERALIHAN",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "40",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat berlakunya Peraturan Bank Indonesia ini, Pelapor tetap diwajibkan untuk menyampaikan laporan sampai dengan data akhir bulan Agustus 2020 sebagaimana diatur dalam:\n- a. Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum sebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum;\n- b. Peraturan Bank Indonesia Nomor 10/40/PBI/2008 tentang Laporan Bulanan Bank Umum sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Bank\nIndonesia Nomor 12/2/PBI/2010 tentang Perubahan Kedua atas Peraturan Bank Indonesia Nomor 10/40/PBI/2008 tentang Laporan Bulanan Bank Umum; c. Peraturan Bank Indonesia Nomor 13/8/PBI/2011 tentang Laporan Harian Bank Umum;\n- d. Peraturan Bank Indonesia Nomor 14/12/PBI/2012 tentang Laporan Kantor Pusat Bank Umum; dan\n- e. Peraturan Bank Indonesia Nomor 15/4/PBI/2013 tentang Laporan Stabilitas Moneter dan Sistem Keuangan Bulanan Bank Umum Syariah dan Unit Usaha Syariah."
+        }
+      ]
+    },
+    {
+      "chapter_number": "XII",
+      "title": "KETENTUAN PENUTUP",
+      "sections": [],
+      "articles": [
+        {
+          "article_number": "41",
+          "section_number": null,
+          "section_title": null,
+          "content": "Semua istilah Laporan Harian Bank Umum, Laporan Berkala Bank Umum, Laporan Berkala Bank Umum Syariah, Laporan Bulanan Bank Umum, Laporan Stabilitas Moneter dan Sistem Keuangan Bulanan Bank Umum Syariah dan Unit Usaha Syariah, dan Laporan Kantor Pusat Bank Umum yang sudah ada dalam ketentuan Bank Indonesia sebelum Peraturan Bank Indonesia ini berlaku, harus dimaknai sebagai Laporan Bank Umum Terintegrasi sejak data bulan September 2020."
+        },
+        {
+          "article_number": "42",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, ketentuan mengenai penyusunan dan penyampaian:\n- a. proyeksi arus kas sebagaimana dimaksud dalam Pasal 2 ayat (4) huruf f Peraturan Bank Indonesia Nomor 13/8/PBI/2011 tentang Laporan Harian Bank Umum;\n- b. batas maksimum pemberian kredit sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf e Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum;\n- c. suku bunga dasar kredit sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf k Peraturan Bank Indonesia Nomor\n13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum; dan\n- d. laporan keuangan publikasi bank sebagaimana dimaksud dalam Pasal 4 huruf l Peraturan Bank Indonesia Nomor 14/12/PBI/2012 tentang Laporan Kantor Pusat Bank Umum,\ndicabut dan dinyatakan tidak berlaku."
+        },
+        {
+          "article_number": "43",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, ketentuan mengenai penyusunan dan penyampaian:\n- a. kewajiban penyediaan modal minimum dengan memperhitungkan risiko pasar sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf g Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum; dan\n- b. aset tertimbang menurut risiko untuk risiko kredit sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf j Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum,\n- dicabut dan dinyatakan tidak berlaku sejak data bulan September 2019."
+        },
+        {
+          "article_number": "44",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, ketentuan mengenai penyusunan dan penyampaian restrukturisasi kredit sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf f Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum, dicabut dan dinyatakan tidak berlaku sejak data bulan Januari 2020."
+        },
+        {
+          "article_number": "45",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, ketentuan mengenai penyusunan dan penyampaian:\n- a. laporan pejabat eksekutif sebagaimana dimaksud dalam Pasal 4 huruf j Peraturan Bank Indonesia Nomor 14/12/PBI/2012 tentang Laporan Kantor Pusat Bank Umum, untuk bank umum konvensional; dan\n- b. tenaga kerja perbankan sebagaimana dimaksud dalam Pasal 4 huruf n Peraturan Bank Indonesia Nomor 14/12/PBI/2012 tentang Laporan Kantor Pusat Bank Umum,\ndicabut dan dinyatakan tidak berlaku sejak data bulan Juni 2020."
+        },
+        {
+          "article_number": "46",
+          "section_number": null,
+          "section_title": null,
+          "content": "Pada saat Peraturan Bank Indonesia ini mulai berlaku:\n- a. Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 4629) sebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor 13/19/PBI/2011 tentang Perubahan atas Peraturan Bank Indonesia Nomor 8/12/PBI/2006 tentang Laporan Berkala Bank Umum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 5240);\n- b. Peraturan Bank Indonesia Nomor 10/40/PBI/2008 tentang Laporan Bulanan Bank Umum (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 205, Tambahan Lembaran Negara Republik Indonesia Nomor 4950) sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Bank Indonesia Nomor 12/2/PBI/2010 tentang Perubahan Kedua atas Peraturan Bank Indonesia Nomor 10/40/PBI/2008 tentang Laporan Bulanan Bank Umum (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 40, Tambahan Lembaran Negara Republik Indonesia Nomor 5113);\n- c. Peraturan Bank Indonesia Nomor 13/8/PBI/2011 tentang Laporan Harian Bank Umum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 5194);\n- d. Peraturan Bank Indonesia Nomor 14/12/PBI/2012 tentang Laporan Kantor Pusat Bank Umum (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 5349); dan\n- e. Peraturan Bank Indonesia Nomor 15/4/PBI/2013 tentang Laporan Stabilitas Moneter dan Sistem Keuangan Bulanan Bank Umum Syariah dan Unit Usaha Syariah (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 141, Tambahan Lembaran Negara Republik Indonesia Nomor 5437),\ndicabut dan dinyatakan tidak berlaku sejak data bulan September 2020."
+        },
+        {
+          "article_number": "47",
+          "section_number": null,
+          "section_title": null,
+          "content": "Ketentuan mengenai pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 28 mulai berlaku sejak kewajiban penyampaian Laporan dan/atau koreksi Laporan sebagaimana dimaksud dalam Pasal 17 ayat (1)."
+        },
+        {
+          "article_number": "48",
+          "section_number": null,
+          "section_title": null,
+          "content": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal diundangkan.\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bank Indonesia ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.\nDitetapkan di Jakarta pada tanggal 30 Agustus 2019\nGUBERNUR BANK INDONESIA,\nttd\nPERRY WARJIYO\nDiundangkan di Jakarta pada tanggal 30 Agustus 2019\nMENTERI HUKUM DAN HAK ASASI MANUSIA\nREPUBLIK INDONESIA,\nttd\nYASONNA H. LAOLY"
+        }
+      ]
+    }
+  ],
+  "chapter_count": 12,
+  "section_count": 4,
+  "article_count": 48,
+  "penjelasan": {
+    "umum": "",
+    "articles": {}
+  },
+  "source_file": "sample_docs\\external_demo\\Peraturan BI No. 21-9-PBI 2019.md"
+}
